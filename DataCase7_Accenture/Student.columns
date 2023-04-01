@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"student_id","INTEGER","2","2","0"
+"student_name","STRING","16","0","0"
+"class_id","STRING","5","0","0"
+"gender","STRING","1","0","0"
+"date_of_birth","STRING","19","0","0"

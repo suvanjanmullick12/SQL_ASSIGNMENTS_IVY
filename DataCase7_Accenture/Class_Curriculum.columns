@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"class_curriculum_id","STRING","5","0","0"
+"class_standard","INTEGER","2","2","0"
+"subject_name","STRING","7","0","0"

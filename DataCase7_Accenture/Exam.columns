@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"exam_id","STRING","7","0","0"
+"exam_name","STRING","11","0","0"
+"exam_subject","STRING","7","0","0"
+"class_standard","INTEGER","2","2","0"
+"total_marks","INTEGER","3","3","0"

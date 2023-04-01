@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"exam_paper_id","STRING","8","0","0"
+"student_id","INTEGER","2","2","0"
+"exam_id","STRING","7","0","0"
+"marks","INTEGER","3","3","0"

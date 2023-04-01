@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"teacher_allocation_id","STRING","6","0","0"
+"class_id","STRING","5","0","0"
+"teacher_id","STRING","3","0","0"

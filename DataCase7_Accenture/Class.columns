@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"class_id","STRING","5","0","0"
+"class_standard","INTEGER","2","2","0"
+"class_section","STRING","1","0","0"
+"class_teacher_id","STRING","3","0","0"
