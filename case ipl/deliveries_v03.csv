@@ -1,0 +1,1001 @@
+id,inning,over,ball,batsman,non_striker,bowler,batsman_runs,extra_runs,total_runs,is_wicket,dismissal_kind,player_dismissed,fielder,extras_type,batting_team,bowling_team,venue,match_date,ball_result,NEW_DATE_1
+335982,1,0,1,SC Ganguly,BB McCullum,P Kumar,0,1,1,0,NA,NA,NA,legbyes,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,18-04-2008,other,18-04-2008
+335982,1,0,2,BB McCullum,SC Ganguly,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",19-04-2008,dot,19-04-2008
+335982,1,0,3,BB McCullum,SC Ganguly,P Kumar,0,1,1,0,NA,NA,NA,wides,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,19-04-2008,other,19-04-2008
+335982,1,0,4,BB McCullum,SC Ganguly,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,20-04-2008,dot,20-04-2008
+335982,1,0,5,BB McCullum,SC Ganguly,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,20-04-2008,dot,20-04-2008
+335982,1,0,6,BB McCullum,SC Ganguly,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,21-04-2008,dot,21-04-2008
+335982,1,0,7,BB McCullum,SC Ganguly,P Kumar,0,1,1,0,NA,NA,NA,legbyes,Kolkata Knight Riders,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",22-04-2008,other,22-04-2008
+335982,1,1,1,BB McCullum,SC Ganguly,Z Khan,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",23-04-2008,dot,23-04-2008
+335982,1,1,2,BB McCullum,SC Ganguly,Z Khan,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",24-04-2008,boundary,24-04-2008
+335982,1,1,3,BB McCullum,SC Ganguly,Z Khan,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",25-04-2008,boundary,25-04-2008
+335982,1,1,4,BB McCullum,SC Ganguly,Z Khan,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,26-04-2008,boundary,26-04-2008
+335982,1,1,5,BB McCullum,SC Ganguly,Z Khan,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",26-04-2008,boundary,26-04-2008
+335982,1,1,6,BB McCullum,SC Ganguly,Z Khan,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Dr DY Patil Sports Academy,27-04-2008,dot,27-04-2008
+335982,1,2,1,SC Ganguly,BB McCullum,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",27-04-2008,dot,27-04-2008
+335982,1,2,2,SC Ganguly,BB McCullum,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,28-04-2008,dot,28-04-2008
+335982,1,2,3,SC Ganguly,BB McCullum,P Kumar,0,1,1,0,NA,NA,NA,legbyes,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,29-04-2008,other,29-04-2008
+335982,1,2,4,BB McCullum,SC Ganguly,P Kumar,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,30-04-2008,boundary,30-04-2008
+335982,1,2,5,BB McCullum,SC Ganguly,P Kumar,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",01-05-2008,other,01-05-2008
+335982,1,2,6,SC Ganguly,BB McCullum,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,01-05-2008,dot,01-05-2008
+335982,1,3,1,BB McCullum,SC Ganguly,AA Noffke,0,5,5,0,NA,NA,NA,wides,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",02-05-2008,boundary,02-05-2008
+335982,1,3,2,BB McCullum,SC Ganguly,AA Noffke,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",25-05-2008,boundary,25-05-2008
+335982,1,3,3,BB McCullum,SC Ganguly,AA Noffke,0,1,1,0,NA,NA,NA,legbyes,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",03-05-2008,other,03-05-2008
+335982,1,3,4,SC Ganguly,BB McCullum,AA Noffke,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Dr DY Patil Sports Academy,04-05-2008,boundary,04-05-2008
+335982,1,3,5,SC Ganguly,BB McCullum,AA Noffke,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,04-05-2008,dot,04-05-2008
+335982,1,3,6,SC Ganguly,BB McCullum,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,05-05-2008,other,05-05-2008
+335982,1,3,7,BB McCullum,SC Ganguly,AA Noffke,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",06-05-2008,boundary,06-05-2008
+335982,1,4,1,SC Ganguly,BB McCullum,P Kumar,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Dr DY Patil Sports Academy,07-05-2008,boundary,07-05-2008
+335982,1,4,2,SC Ganguly,BB McCullum,P Kumar,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,08-05-2008,other,08-05-2008
+335982,1,4,3,BB McCullum,SC Ganguly,P Kumar,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,08-05-2008,boundary,08-05-2008
+335982,1,4,4,BB McCullum,SC Ganguly,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,09-05-2008,dot,09-05-2008
+335982,1,4,5,BB McCullum,SC Ganguly,P Kumar,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,28-05-2008,other,28-05-2008
+335982,1,4,6,SC Ganguly,BB McCullum,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",10-05-2008,dot,10-05-2008
+335982,1,5,1,BB McCullum,SC Ganguly,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",11-05-2008,other,11-05-2008
+335982,1,5,2,SC Ganguly,BB McCullum,Z Khan,0,0,0,1,caught,SC Ganguly,JH Kallis,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,11-05-2008,dot,11-05-2008
+335982,1,5,3,RT Ponting,BB McCullum,Z Khan,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",12-05-2008,dot,12-05-2008
+335982,1,5,4,RT Ponting,BB McCullum,Z Khan,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,13-05-2008,dot,13-05-2008
+335982,1,5,5,RT Ponting,BB McCullum,Z Khan,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,14-05-2008,dot,14-05-2008
+335982,1,5,6,RT Ponting,BB McCullum,Z Khan,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",28-05-2008,dot,28-05-2008
+335982,1,6,1,BB McCullum,RT Ponting,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,15-05-2008,other,15-05-2008
+335982,1,6,2,RT Ponting,BB McCullum,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,16-05-2008,other,16-05-2008
+335982,1,6,3,BB McCullum,RT Ponting,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,17-05-2008,other,17-05-2008
+335982,1,6,4,RT Ponting,BB McCullum,AA Noffke,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,17-05-2008,other,17-05-2008
+335982,1,6,5,RT Ponting,BB McCullum,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",18-05-2008,other,18-05-2008
+335982,1,6,6,BB McCullum,RT Ponting,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,18-05-2008,other,18-05-2008
+335982,1,7,1,BB McCullum,RT Ponting,Z Khan,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,19-05-2008,dot,19-05-2008
+335982,1,7,2,BB McCullum,RT Ponting,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,20-05-2008,other,20-05-2008
+335982,1,7,3,RT Ponting,BB McCullum,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,21-05-2008,other,21-05-2008
+335982,1,7,4,BB McCullum,RT Ponting,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",21-05-2008,other,21-05-2008
+335982,1,7,5,RT Ponting,BB McCullum,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",23-05-2008,other,23-05-2008
+335982,1,7,6,BB McCullum,RT Ponting,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,24-05-2008,other,24-05-2008
+335982,1,8,1,BB McCullum,RT Ponting,JH Kallis,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",24-05-2008,dot,24-05-2008
+335982,1,8,2,BB McCullum,RT Ponting,JH Kallis,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,03-05-2008,dot,03-05-2008
+335982,1,8,3,BB McCullum,RT Ponting,JH Kallis,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,25-05-2008,dot,25-05-2008
+335982,1,8,4,BB McCullum,RT Ponting,JH Kallis,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Sawai Mansingh Stadium,26-05-2008,other,26-05-2008
+335982,1,8,5,RT Ponting,BB McCullum,JH Kallis,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",27-05-2008,other,27-05-2008
+335982,1,8,6,BB McCullum,RT Ponting,JH Kallis,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,30-05-2008,other,30-05-2008
+335982,1,9,1,RT Ponting,BB McCullum,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,31-05-2008,other,31-05-2008
+335982,1,9,2,BB McCullum,RT Ponting,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Dr DY Patil Sports Academy,01-06-2008,other,01-06-2008
+335982,1,9,3,RT Ponting,BB McCullum,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Newlands,18-04-2009,other,18-04-2009
+335982,1,9,4,BB McCullum,RT Ponting,SB Joshi,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Newlands,18-04-2009,dot,18-04-2009
+335982,1,9,5,BB McCullum,RT Ponting,SB Joshi,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Newlands,19-04-2009,boundary,19-04-2009
+335982,1,9,6,BB McCullum,RT Ponting,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Newlands,19-04-2009,other,19-04-2009
+335982,1,10,1,BB McCullum,RT Ponting,JH Kallis,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,St George's Park,20-04-2009,other,20-04-2009
+335982,1,10,2,RT Ponting,BB McCullum,JH Kallis,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,21-04-2009,boundary,21-04-2009
+335982,1,10,3,RT Ponting,BB McCullum,JH Kallis,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Newlands,22-04-2009,dot,22-04-2009
+335982,1,10,4,RT Ponting,BB McCullum,JH Kallis,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,23-04-2009,boundary,23-04-2009
+335982,1,10,5,RT Ponting,BB McCullum,JH Kallis,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Newlands,23-04-2009,dot,23-04-2009
+335982,1,10,6,RT Ponting,BB McCullum,JH Kallis,0,4,4,0,NA,NA,NA,byes,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,24-04-2009,boundary,24-04-2009
+335982,1,11,1,BB McCullum,RT Ponting,SB Joshi,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,25-04-2009,dot,25-04-2009
+335982,1,11,2,BB McCullum,RT Ponting,SB Joshi,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,St George's Park,26-04-2009,boundary,26-04-2009
+335982,1,11,3,BB McCullum,RT Ponting,SB Joshi,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Newlands,26-04-2009,other,26-04-2009
+335982,1,11,4,BB McCullum,RT Ponting,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,27-04-2009,other,27-04-2009
+335982,1,11,5,RT Ponting,BB McCullum,SB Joshi,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,St George's Park,27-04-2009,dot,27-04-2009
+335982,1,11,6,RT Ponting,BB McCullum,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,28-04-2009,other,28-04-2009
+335982,1,12,1,RT Ponting,BB McCullum,JH Kallis,0,0,0,1,caught,RT Ponting,P Kumar,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,29-04-2009,dot,29-04-2009
+335982,1,12,2,BB McCullum,DJ Hussey,JH Kallis,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,29-04-2009,boundary,29-04-2009
+335982,1,12,3,BB McCullum,DJ Hussey,JH Kallis,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,30-04-2009,dot,30-04-2009
+335982,1,12,4,BB McCullum,DJ Hussey,JH Kallis,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,30-04-2009,other,30-04-2009
+335982,1,12,5,BB McCullum,DJ Hussey,JH Kallis,0,1,1,0,NA,NA,NA,wides,Kolkata Knight Riders,Royal Challengers Bangalore,Buffalo Park,01-05-2009,other,01-05-2009
+335982,1,12,6,BB McCullum,DJ Hussey,JH Kallis,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,01-05-2009,boundary,01-05-2009
+335982,1,12,7,BB McCullum,DJ Hussey,JH Kallis,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,St George's Park,02-05-2009,other,02-05-2009
+335982,1,13,1,BB McCullum,DJ Hussey,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,02-05-2009,other,02-05-2009
+335982,1,13,2,DJ Hussey,BB McCullum,SB Joshi,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,St George's Park,03-05-2009,dot,18-04-2008
+335982,1,13,3,DJ Hussey,BB McCullum,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,03-05-2009,other,19-04-2008
+335982,1,13,4,BB McCullum,DJ Hussey,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Buffalo Park,04-05-2009,other,19-04-2008
+335982,1,13,5,DJ Hussey,BB McCullum,SB Joshi,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,05-05-2009,other,20-04-2008
+335982,1,13,6,BB McCullum,DJ Hussey,SB Joshi,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,05-05-2009,other,20-04-2008
+335982,1,14,1,DJ Hussey,BB McCullum,CL White,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,06-05-2009,boundary,21-04-2008
+335982,1,14,2,DJ Hussey,BB McCullum,CL White,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,07-05-2009,other,22-04-2008
+335982,1,14,3,BB McCullum,DJ Hussey,CL White,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,07-05-2009,boundary,23-04-2008
+335982,1,14,4,BB McCullum,DJ Hussey,CL White,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Buffalo Park,08-05-2009,boundary,24-04-2008
+335982,1,14,5,BB McCullum,DJ Hussey,CL White,0,2,2,0,NA,NA,NA,wides,Kolkata Knight Riders,Royal Challengers Bangalore,De Beers Diamond Oval,09-05-2009,other,25-04-2008
+335982,1,14,6,DJ Hussey,BB McCullum,CL White,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,De Beers Diamond Oval,09-05-2009,other,26-04-2008
+335982,1,14,7,BB McCullum,DJ Hussey,CL White,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,St George's Park,10-05-2009,boundary,26-04-2008
+335982,1,15,1,DJ Hussey,BB McCullum,AA Noffke,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,10-05-2009,dot,27-04-2008
+335982,1,15,2,DJ Hussey,BB McCullum,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,De Beers Diamond Oval,11-05-2009,other,27-04-2008
+335982,1,15,3,BB McCullum,DJ Hussey,AA Noffke,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,12-05-2009,other,28-04-2008
+335982,1,15,4,BB McCullum,DJ Hussey,AA Noffke,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,12-05-2009,dot,29-04-2008
+335982,1,15,5,BB McCullum,DJ Hussey,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,13-05-2009,other,30-04-2008
+335982,1,15,6,DJ Hussey,BB McCullum,AA Noffke,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,14-05-2009,dot,01-05-2008
+335982,1,16,1,BB McCullum,DJ Hussey,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,14-05-2009,other,01-05-2008
+335982,1,16,2,DJ Hussey,BB McCullum,Z Khan,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,OUTsurance Oval,15-05-2009,other,02-05-2008
+335982,1,16,3,DJ Hussey,BB McCullum,Z Khan,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,St George's Park,16-05-2009,other,25-05-2008
+335982,1,16,4,BB McCullum,DJ Hussey,Z Khan,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,16-05-2009,boundary,03-05-2008
+335982,1,16,5,BB McCullum,DJ Hussey,Z Khan,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,17-05-2009,other,04-05-2008
+335982,1,16,6,BB McCullum,DJ Hussey,Z Khan,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,OUTsurance Oval,17-05-2009,other,04-05-2008
+335982,1,17,1,DJ Hussey,BB McCullum,AA Noffke,0,0,0,1,caught,DJ Hussey,CL White,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,18-05-2009,dot,05-05-2008
+335982,1,17,2,BB McCullum,Mohammad Hafeez,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,19-05-2009,other,06-05-2008
+335982,1,17,3,Mohammad Hafeez,BB McCullum,AA Noffke,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,20-05-2009,dot,07-05-2008
+335982,1,17,4,Mohammad Hafeez,BB McCullum,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Kingsmead,20-05-2009,other,08-05-2008
+335982,1,17,5,BB McCullum,Mohammad Hafeez,AA Noffke,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,21-05-2009,boundary,08-05-2008
+335982,1,17,6,BB McCullum,Mohammad Hafeez,AA Noffke,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,21-05-2009,other,09-05-2008
+335982,1,18,1,BB McCullum,Mohammad Hafeez,JH Kallis,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,SuperSport Park,22-05-2009,boundary,28-05-2008
+335982,1,18,2,BB McCullum,Mohammad Hafeez,JH Kallis,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,23-05-2009,dot,10-05-2008
+335982,1,18,3,BB McCullum,Mohammad Hafeez,JH Kallis,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,New Wanderers Stadium,24-05-2009,boundary,11-05-2008
+335982,1,18,4,BB McCullum,Mohammad Hafeez,JH Kallis,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Dr DY Patil Sports Academy,12-03-2010,boundary,11-05-2008
+335982,1,18,5,BB McCullum,Mohammad Hafeez,JH Kallis,1,0,1,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Brabourne Stadium,13-03-2010,other,12-05-2008
+335982,1,18,6,Mohammad Hafeez,BB McCullum,JH Kallis,4,0,4,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Punjab Cricket Association Stadium, Mohali",13-03-2010,boundary,13-05-2008
+335982,1,19,1,BB McCullum,Mohammad Hafeez,P Kumar,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,14-03-2010,boundary,14-05-2008
+335982,1,19,2,BB McCullum,Mohammad Hafeez,P Kumar,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",14-03-2010,boundary,28-05-2008
+335982,1,19,3,BB McCullum,Mohammad Hafeez,P Kumar,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,"Sardar Patel Stadium, Motera",15-03-2010,other,15-05-2008
+335982,1,19,4,BB McCullum,Mohammad Hafeez,P Kumar,0,0,0,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,M Chinnaswamy Stadium,16-03-2010,dot,16-05-2008
+335982,1,19,5,BB McCullum,Mohammad Hafeez,P Kumar,2,0,2,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,16-03-2010,other,17-05-2008
+335982,1,19,6,BB McCullum,Mohammad Hafeez,P Kumar,6,0,6,0,NA,NA,NA,NA,Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,17-03-2010,boundary,17-05-2008
+335982,2,0,1,R Dravid,W Jaffer,AB Dinda,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,18-03-2010,other,18-05-2008
+335982,2,0,2,W Jaffer,R Dravid,AB Dinda,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,19-03-2010,other,18-05-2008
+335982,2,0,3,W Jaffer,R Dravid,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Barabati Stadium,19-03-2010,dot,19-05-2008
+335982,2,0,4,W Jaffer,R Dravid,AB Dinda,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Sardar Patel Stadium, Motera",20-03-2010,other,20-05-2008
+335982,2,0,5,R Dravid,W Jaffer,AB Dinda,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Brabourne Stadium,20-03-2010,other,21-05-2008
+335982,2,0,6,W Jaffer,R Dravid,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Barabati Stadium,21-03-2010,dot,21-05-2008
+335982,2,0,7,W Jaffer,R Dravid,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",21-03-2010,dot,23-05-2008
+335982,2,1,1,R Dravid,W Jaffer,I Sharma,0,0,0,1,bowled,R Dravid,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Brabourne Stadium,22-03-2010,dot,24-05-2008
+335982,2,1,2,V Kohli,W Jaffer,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,23-03-2010,dot,24-05-2008
+335982,2,1,3,V Kohli,W Jaffer,I Sharma,0,4,4,0,NA,NA,NA,legbyes,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",24-03-2010,boundary,03-05-2008
+335982,2,1,4,V Kohli,W Jaffer,I Sharma,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Brabourne Stadium,25-03-2010,other,25-05-2008
+335982,2,1,5,W Jaffer,V Kohli,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Sardar Patel Stadium, Motera",26-03-2010,dot,26-05-2008
+335982,2,1,6,W Jaffer,V Kohli,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",27-03-2010,dot,27-05-2008
+335982,2,2,1,V Kohli,W Jaffer,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,25-03-2010,dot,30-05-2008
+335982,2,2,2,V Kohli,W Jaffer,AB Dinda,0,0,0,1,bowled,V Kohli,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Sardar Patel Stadium, Motera",28-03-2010,dot,31-05-2008
+335982,2,2,3,JH Kallis,W Jaffer,AB Dinda,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,28-03-2010,other,01-06-2008
+335982,2,2,4,W Jaffer,JH Kallis,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,29-03-2010,dot,18-04-2009
+335982,2,2,5,W Jaffer,JH Kallis,AB Dinda,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,Brabourne Stadium,30-03-2010,other,18-04-2009
+335982,2,2,6,W Jaffer,JH Kallis,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",31-03-2010,dot,19-04-2009
+335982,2,2,7,W Jaffer,JH Kallis,AB Dinda,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,31-03-2010,other,19-04-2009
+335982,2,3,1,W Jaffer,JH Kallis,I Sharma,2,0,2,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,01-04-2010,other,20-04-2009
+335982,2,3,2,W Jaffer,JH Kallis,I Sharma,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",02-04-2010,other,21-04-2009
+335982,2,3,3,JH Kallis,W Jaffer,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",03-04-2010,dot,22-04-2009
+335982,2,3,4,JH Kallis,W Jaffer,I Sharma,0,1,1,0,NA,NA,NA,legbyes,Royal Challengers Bangalore,Kolkata Knight Riders,Brabourne Stadium,03-04-2010,other,23-04-2009
+335982,2,3,5,W Jaffer,JH Kallis,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,04-04-2010,dot,23-04-2009
+335982,2,3,6,W Jaffer,JH Kallis,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,04-04-2010,dot,24-04-2009
+335982,2,4,1,JH Kallis,W Jaffer,AB Agarkar,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Vidarbha Cricket Association Stadium, Jamtha",05-04-2010,other,25-04-2009
+335982,2,4,2,W Jaffer,JH Kallis,AB Agarkar,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",06-04-2010,other,26-04-2009
+335982,2,4,3,JH Kallis,W Jaffer,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,07-04-2010,dot,26-04-2009
+335982,2,4,4,JH Kallis,W Jaffer,AB Agarkar,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,07-04-2010,boundary,27-04-2009
+335982,2,4,5,JH Kallis,W Jaffer,AB Agarkar,0,0,0,1,caught,JH Kallis,M Kartik,NA,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,08-04-2010,dot,27-04-2009
+335982,2,4,6,CL White,W Jaffer,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",09-04-2010,dot,28-04-2009
+335982,2,5,1,W Jaffer,CL White,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Vidarbha Cricket Association Stadium, Jamtha",10-04-2010,dot,29-04-2009
+335982,2,5,2,W Jaffer,CL White,AB Dinda,0,0,0,1,caught,W Jaffer,RT Ponting,NA,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,10-04-2010,dot,29-04-2009
+335982,2,5,3,MV Boucher,CL White,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,11-04-2010,dot,30-04-2009
+335982,2,5,4,MV Boucher,CL White,AB Dinda,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,11-04-2010,other,30-04-2009
+335982,2,5,5,CL White,MV Boucher,AB Dinda,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Vidarbha Cricket Association Stadium, Jamtha",12-04-2010,other,01-05-2009
+335982,2,5,6,MV Boucher,CL White,AB Dinda,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Brabourne Stadium,13-04-2010,dot,01-05-2009
+335982,2,6,1,CL White,MV Boucher,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",13-04-2010,dot,02-05-2009
+335982,2,6,2,CL White,MV Boucher,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,14-04-2010,dot,02-05-2009
+335982,2,6,3,CL White,MV Boucher,AB Agarkar,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",15-04-2010,other,03-05-2009
+335982,2,6,4,MV Boucher,CL White,AB Agarkar,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,Himachal Pradesh Cricket Association Stadium,16-04-2010,other,03-05-2009
+335982,2,6,5,MV Boucher,CL White,AB Agarkar,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,17-04-2010,other,04-05-2009
+335982,2,6,6,MV Boucher,CL White,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,17-04-2010,dot,05-05-2009
+335982,2,6,7,MV Boucher,CL White,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Himachal Pradesh Cricket Association Stadium,18-04-2010,dot,05-05-2009
+335982,2,6,8,MV Boucher,CL White,AB Agarkar,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,18-04-2010,boundary,06-05-2009
+335982,2,7,1,CL White,MV Boucher,SC Ganguly,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,19-04-2010,other,07-05-2009
+335982,2,7,2,MV Boucher,CL White,SC Ganguly,0,1,1,0,NA,NA,NA,legbyes,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,21-04-2010,other,07-05-2009
+335982,2,7,3,CL White,MV Boucher,SC Ganguly,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,22-04-2010,other,08-05-2009
+335982,2,7,4,MV Boucher,CL White,SC Ganguly,2,0,2,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,24-04-2010,other,09-05-2009
+335982,2,7,5,MV Boucher,CL White,SC Ganguly,0,0,0,1,caught,MV Boucher,M Kartik,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,25-04-2010,dot,09-05-2009
+335982,2,7,6,CL White,B Akhil,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",08-04-2011,dot,10-05-2009
+335982,2,8,1,B Akhil,CL White,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",09-04-2011,dot,10-05-2009
+335982,2,8,2,B Akhil,CL White,AB Agarkar,0,0,0,1,caught,B Akhil,RT Ponting,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Nehru Stadium,09-04-2011,dot,11-05-2009
+335982,2,8,3,AA Noffke,CL White,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,10-04-2011,dot,12-05-2009
+335982,2,8,4,AA Noffke,CL White,AB Agarkar,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,10-04-2011,other,12-05-2009
+335982,2,8,5,AA Noffke,CL White,AB Agarkar,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,11-04-2011,other,13-05-2009
+335982,2,8,6,AA Noffke,CL White,AB Agarkar,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,12-04-2011,other,14-05-2009
+335982,2,8,7,CL White,AA Noffke,AB Agarkar,2,0,2,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,12-04-2011,other,14-05-2009
+335982,2,8,8,CL White,AA Noffke,AB Agarkar,0,0,0,1,caught,CL White,WP Saha,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",13-04-2011,dot,15-05-2009
+335982,2,9,1,AA Noffke,P Kumar,SC Ganguly,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,13-04-2011,other,16-05-2009
+335982,2,9,2,P Kumar,AA Noffke,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",14-04-2011,dot,16-05-2009
+335982,2,9,3,P Kumar,AA Noffke,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,15-04-2011,dot,17-05-2009
+335982,2,9,4,P Kumar,AA Noffke,SC Ganguly,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,15-04-2011,other,17-05-2009
+335982,2,9,5,P Kumar,AA Noffke,SC Ganguly,0,1,1,0,NA,NA,NA,legbyes,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",16-04-2011,other,18-05-2009
+335982,2,9,6,AA Noffke,P Kumar,SC Ganguly,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",16-04-2011,boundary,19-05-2009
+335982,2,9,7,AA Noffke,P Kumar,SC Ganguly,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,17-04-2011,other,20-05-2009
+335982,2,10,1,AA Noffke,P Kumar,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,17-04-2011,dot,20-05-2009
+335982,2,10,2,AA Noffke,P Kumar,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Nehru Stadium,18-04-2011,dot,21-05-2009
+335982,2,10,3,AA Noffke,P Kumar,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,19-04-2011,dot,21-05-2009
+335982,2,10,4,AA Noffke,P Kumar,AB Agarkar,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,20-04-2011,other,22-05-2009
+335982,2,10,5,P Kumar,AA Noffke,AB Agarkar,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,20-04-2011,boundary,23-05-2009
+335982,2,10,6,P Kumar,AA Noffke,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",21-04-2011,dot,24-05-2009
+335982,2,11,1,AA Noffke,P Kumar,SC Ganguly,1,0,1,1,run out,AA Noffke,"AB Agarkar,WP Saha",NA,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,22-04-2011,other,12-03-2010
+335982,2,11,2,Z Khan,P Kumar,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,22-04-2011,dot,13-03-2010
+335982,2,11,3,Z Khan,P Kumar,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,23-04-2011,dot,13-03-2010
+335982,2,11,4,Z Khan,P Kumar,SC Ganguly,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",24-04-2011,other,14-03-2010
+335982,2,11,5,P Kumar,Z Khan,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,24-04-2011,dot,14-03-2010
+335982,2,11,6,P Kumar,Z Khan,SC Ganguly,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",25-04-2011,other,15-03-2010
+335982,2,12,1,P Kumar,Z Khan,LR Shukla,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,26-04-2011,boundary,16-03-2010
+335982,2,12,2,P Kumar,Z Khan,LR Shukla,0,2,2,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,27-04-2011,other,16-03-2010
+335982,2,12,3,Z Khan,P Kumar,LR Shukla,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Nehru Stadium,27-04-2011,other,17-03-2010
+335982,2,12,4,P Kumar,Z Khan,LR Shukla,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,28-04-2011,other,18-03-2010
+335982,2,12,5,Z Khan,P Kumar,LR Shukla,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,29-04-2011,dot,19-03-2010
+335982,2,12,6,Z Khan,P Kumar,LR Shukla,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,29-04-2011,dot,19-03-2010
+335982,2,12,7,Z Khan,P Kumar,LR Shukla,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Nehru Stadium,30-04-2011,other,20-03-2010
+335982,2,13,1,Z Khan,P Kumar,SC Ganguly,0,0,0,1,bowled,Z Khan,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,30-04-2011,dot,20-03-2010
+335982,2,13,2,SB Joshi,P Kumar,SC Ganguly,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Sawai Mansingh Stadium,01-05-2011,other,21-03-2010
+335982,2,13,3,P Kumar,SB Joshi,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",01-05-2011,dot,21-03-2010
+335982,2,13,4,P Kumar,SB Joshi,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,02-05-2011,dot,22-03-2010
+335982,2,13,5,P Kumar,SB Joshi,SC Ganguly,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,02-05-2011,dot,23-03-2010
+335982,2,13,6,P Kumar,SB Joshi,SC Ganguly,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",03-05-2011,boundary,24-03-2010
+335982,2,14,1,SB Joshi,P Kumar,I Sharma,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk",04-05-2011,other,25-03-2010
+335982,2,14,2,SB Joshi,P Kumar,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Dr DY Patil Sports Academy,04-05-2011,dot,26-03-2010
+335982,2,14,3,SB Joshi,P Kumar,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Nehru Stadium,05-05-2011,dot,27-03-2010
+335982,2,14,4,SB Joshi,P Kumar,I Sharma,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Rajiv Gandhi International Stadium, Uppal",05-05-2011,other,25-03-2010
+335982,2,14,5,P Kumar,SB Joshi,I Sharma,0,1,1,0,NA,NA,NA,legbyes,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,06-05-2011,other,28-03-2010
+335982,2,14,6,SB Joshi,P Kumar,I Sharma,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,07-05-2011,other,28-03-2010
+335982,2,14,7,P Kumar,SB Joshi,I Sharma,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,07-05-2011,dot,29-03-2010
+335982,2,15,1,SB Joshi,P Kumar,LR Shukla,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Kolkata Knight Riders,M Chinnaswamy Stadium,08-05-2011,other,30-03-2010
+335982,2,15,2,SB Joshi,P Kumar,LR Shukla,0,0,0,1,caught,SB Joshi,BB McCullum,NA,Royal Challengers Bangalore,Kolkata Knight Riders,"Punjab Cricket Association Stadium, Mohali",08-05-2011,dot,31-03-2010
+335983,1,0,1,PA Patel,ML Hayden,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,09-05-2011,dot,31-03-2010
+335983,1,0,2,PA Patel,ML Hayden,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",10-05-2011,dot,01-04-2010
+335983,1,0,3,PA Patel,ML Hayden,B Lee,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",10-05-2011,other,02-04-2010
+335983,1,0,4,ML Hayden,PA Patel,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,11-05-2011,dot,03-04-2010
+335983,1,0,5,ML Hayden,PA Patel,B Lee,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",12-05-2011,boundary,03-04-2010
+335983,1,0,6,ML Hayden,PA Patel,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Holkar Cricket Stadium,13-05-2011,dot,04-04-2010
+335983,1,1,1,PA Patel,ML Hayden,S Sreesanth,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,14-05-2011,boundary,04-04-2010
+335983,1,1,2,PA Patel,ML Hayden,S Sreesanth,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,14-05-2011,boundary,05-04-2010
+335983,1,1,3,PA Patel,ML Hayden,S Sreesanth,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,15-05-2011,boundary,06-04-2010
+335983,1,1,4,PA Patel,ML Hayden,S Sreesanth,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Holkar Cricket Stadium,15-05-2011,other,07-04-2010
+335983,1,1,5,PA Patel,ML Hayden,S Sreesanth,0,1,1,0,NA,NA,NA,wides,Chennai Super Kings,Kings XI Punjab,Dr DY Patil Sports Academy,16-05-2011,other,07-04-2010
+335983,1,1,6,PA Patel,ML Hayden,S Sreesanth,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,17-05-2011,dot,08-04-2010
+335983,1,1,7,PA Patel,ML Hayden,S Sreesanth,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",18-05-2011,dot,09-04-2010
+335983,1,2,1,ML Hayden,PA Patel,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Dr DY Patil Sports Academy,19-05-2011,dot,10-04-2010
+335983,1,2,2,ML Hayden,PA Patel,B Lee,4,1,5,0,NA,NA,NA,noballs,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,20-05-2011,boundary,10-04-2010
+335983,1,2,3,ML Hayden,PA Patel,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,21-05-2011,dot,11-04-2010
+335983,1,2,4,ML Hayden,PA Patel,B Lee,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,21-05-2011,other,11-04-2010
+335983,1,2,5,PA Patel,ML Hayden,B Lee,0,0,0,1,caught,PA Patel,KC Sangakkara,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,22-05-2011,dot,12-04-2010
+335983,1,2,6,MEK Hussey,ML Hayden,B Lee,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,22-05-2011,other,13-04-2010
+335983,1,2,7,ML Hayden,MEK Hussey,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,24-05-2011,dot,13-04-2010
+335983,1,3,1,MEK Hussey,ML Hayden,S Sreesanth,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,25-05-2011,dot,14-04-2010
+335983,1,3,2,MEK Hussey,ML Hayden,S Sreesanth,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",27-05-2011,dot,15-04-2010
+335983,1,3,3,MEK Hussey,ML Hayden,S Sreesanth,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",28-05-2011,other,16-04-2010
+335983,1,3,4,ML Hayden,MEK Hussey,S Sreesanth,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",04-04-2012,other,17-04-2010
+335983,1,3,5,MEK Hussey,ML Hayden,S Sreesanth,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,05-04-2012,dot,17-04-2010
+335983,1,3,6,MEK Hussey,ML Hayden,S Sreesanth,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,06-04-2012,boundary,18-04-2010
+335983,1,4,1,ML Hayden,MEK Hussey,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,06-04-2012,dot,18-04-2010
+335983,1,4,2,ML Hayden,MEK Hussey,B Lee,0,1,1,0,NA,NA,NA,legbyes,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,07-04-2012,other,19-04-2010
+335983,1,4,3,MEK Hussey,ML Hayden,B Lee,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,07-04-2012,boundary,21-04-2010
+335983,1,4,4,MEK Hussey,ML Hayden,B Lee,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,08-04-2012,boundary,22-04-2010
+335983,1,4,5,MEK Hussey,ML Hayden,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,08-04-2012,dot,24-04-2010
+335983,1,4,6,MEK Hussey,ML Hayden,B Lee,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,09-04-2012,dot,25-04-2010
+335983,1,5,1,ML Hayden,MEK Hussey,JR Hopes,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,10-04-2012,boundary,08-04-2011
+335983,1,5,2,ML Hayden,MEK Hussey,JR Hopes,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,10-04-2012,boundary,09-04-2011
+335983,1,5,3,ML Hayden,MEK Hussey,JR Hopes,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,11-04-2012,dot,09-04-2011
+335983,1,5,4,ML Hayden,MEK Hussey,JR Hopes,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",12-04-2012,other,10-04-2011
+335983,1,5,5,MEK Hussey,ML Hayden,JR Hopes,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",12-04-2012,dot,10-04-2011
+335983,1,5,6,MEK Hussey,ML Hayden,JR Hopes,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,13-04-2012,dot,11-04-2011
+335983,1,6,1,ML Hayden,MEK Hussey,IK Pathan,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,19-04-2012,boundary,12-04-2011
+335983,1,6,2,ML Hayden,MEK Hussey,IK Pathan,0,0,0,1,bowled,ML Hayden,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,14-04-2012,dot,12-04-2011
+335983,1,6,3,MS Dhoni,MEK Hussey,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,15-04-2012,other,13-04-2011
+335983,1,6,4,MEK Hussey,MS Dhoni,IK Pathan,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,15-04-2012,other,13-04-2011
+335983,1,6,5,MEK Hussey,MS Dhoni,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,16-04-2012,other,14-04-2011
+335983,1,6,6,MS Dhoni,MEK Hussey,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,17-04-2012,other,15-04-2011
+335983,1,7,1,MS Dhoni,MEK Hussey,JR Hopes,0,0,0,1,lbw,MS Dhoni,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,17-04-2012,dot,15-04-2011
+335983,1,7,2,SK Raina,MEK Hussey,JR Hopes,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",18-04-2012,other,16-04-2011
+335983,1,7,3,MEK Hussey,SK Raina,JR Hopes,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",10-05-2012,dot,16-04-2011
+335983,1,7,4,MEK Hussey,SK Raina,JR Hopes,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",19-04-2012,other,17-04-2011
+335983,1,7,5,SK Raina,MEK Hussey,JR Hopes,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",20-04-2012,boundary,17-04-2011
+335983,1,7,6,SK Raina,MEK Hussey,JR Hopes,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",21-04-2012,dot,18-04-2011
+335983,1,8,1,MEK Hussey,SK Raina,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,21-04-2012,other,19-04-2011
+335983,1,8,2,SK Raina,MEK Hussey,IK Pathan,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,22-04-2012,boundary,20-04-2011
+335983,1,8,3,SK Raina,MEK Hussey,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Barabati Stadium,22-04-2012,other,20-04-2011
+335983,1,8,4,MEK Hussey,SK Raina,IK Pathan,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,23-04-2012,dot,21-04-2011
+335983,1,8,5,MEK Hussey,SK Raina,IK Pathan,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,24-04-2012,boundary,22-04-2011
+335983,1,8,6,MEK Hussey,SK Raina,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",25-04-2012,other,22-04-2011
+335983,1,9,1,MEK Hussey,SK Raina,K Goel,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,26-04-2012,other,23-04-2011
+335983,1,9,2,MEK Hussey,SK Raina,K Goel,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,27-04-2012,other,24-04-2011
+335983,1,9,3,SK Raina,MEK Hussey,K Goel,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",28-04-2012,other,24-04-2011
+335983,1,9,4,MEK Hussey,SK Raina,K Goel,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,28-04-2012,dot,25-04-2011
+335983,1,9,5,MEK Hussey,SK Raina,K Goel,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,29-04-2012,dot,26-04-2011
+335983,1,9,6,MEK Hussey,SK Raina,K Goel,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,29-04-2012,other,27-04-2011
+335983,1,10,1,MEK Hussey,SK Raina,PP Chawla,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",30-04-2012,boundary,27-04-2011
+335983,1,10,2,MEK Hussey,SK Raina,PP Chawla,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Barabati Stadium,01-05-2012,other,28-04-2011
+335983,1,10,3,SK Raina,MEK Hussey,PP Chawla,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,01-05-2012,other,29-04-2011
+335983,1,10,4,SK Raina,MEK Hussey,PP Chawla,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,02-05-2012,dot,29-04-2011
+335983,1,10,5,SK Raina,MEK Hussey,PP Chawla,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,03-05-2012,boundary,30-04-2011
+335983,1,10,6,SK Raina,MEK Hussey,PP Chawla,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",04-05-2012,boundary,30-04-2011
+335983,1,11,1,MEK Hussey,SK Raina,K Goel,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,05-05-2012,boundary,01-05-2011
+335983,1,11,2,MEK Hussey,SK Raina,K Goel,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",05-05-2012,boundary,01-05-2011
+335983,1,11,3,MEK Hussey,SK Raina,K Goel,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,06-05-2012,other,02-05-2011
+335983,1,11,4,SK Raina,MEK Hussey,K Goel,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,06-05-2012,boundary,02-05-2011
+335983,1,11,5,SK Raina,MEK Hussey,K Goel,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,07-05-2012,other,03-05-2011
+335983,1,11,6,MEK Hussey,SK Raina,K Goel,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,08-05-2012,other,04-05-2011
+335983,1,12,1,SK Raina,MEK Hussey,WA Mota,0,1,1,0,NA,NA,NA,wides,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",08-05-2012,other,04-05-2011
+335983,1,12,2,SK Raina,MEK Hussey,WA Mota,0,0,0,1,caught,SK Raina,IK Pathan,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,09-05-2012,dot,05-05-2011
+335983,1,12,3,MEK Hussey,JDP Oram,WA Mota,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,10-05-2012,other,05-05-2011
+335983,1,12,4,JDP Oram,MEK Hussey,WA Mota,0,1,1,0,NA,NA,NA,wides,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,11-05-2012,other,06-05-2011
+335983,1,12,5,JDP Oram,MEK Hussey,WA Mota,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,12-05-2012,dot,07-05-2011
+335983,1,12,6,JDP Oram,MEK Hussey,WA Mota,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",12-05-2012,other,07-05-2011
+335983,1,12,7,MEK Hussey,JDP Oram,WA Mota,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,13-05-2012,other,08-05-2011
+335983,1,12,8,JDP Oram,MEK Hussey,WA Mota,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",13-05-2012,other,08-05-2011
+335983,1,13,1,JDP Oram,MEK Hussey,JR Hopes,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,14-05-2012,other,09-05-2011
+335983,1,13,2,MEK Hussey,JDP Oram,JR Hopes,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,14-05-2012,dot,10-05-2011
+335983,1,13,3,MEK Hussey,JDP Oram,JR Hopes,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,15-05-2012,other,10-05-2011
+335983,1,13,4,JDP Oram,MEK Hussey,JR Hopes,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,16-05-2012,other,11-05-2011
+335983,1,13,5,MEK Hussey,JDP Oram,JR Hopes,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,17-05-2012,boundary,12-05-2011
+335983,1,13,6,MEK Hussey,JDP Oram,JR Hopes,0,1,1,0,NA,NA,NA,legbyes,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,17-05-2012,other,13-05-2011
+335983,1,14,1,MEK Hussey,JDP Oram,WA Mota,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",18-05-2012,boundary,14-05-2011
+335983,1,14,2,MEK Hussey,JDP Oram,WA Mota,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Himachal Pradesh Cricket Association Stadium,19-05-2012,other,14-05-2011
+335983,1,14,3,JDP Oram,MEK Hussey,WA Mota,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,19-05-2012,other,15-05-2011
+335983,1,14,4,JDP Oram,MEK Hussey,WA Mota,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",20-05-2012,other,15-05-2011
+335983,1,14,5,MEK Hussey,JDP Oram,WA Mota,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,20-05-2012,boundary,16-05-2011
+335983,1,14,6,MEK Hussey,JDP Oram,WA Mota,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,22-05-2012,boundary,17-05-2011
+335983,1,15,1,JDP Oram,MEK Hussey,IK Pathan,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,23-05-2012,boundary,18-05-2011
+335983,1,15,2,JDP Oram,MEK Hussey,IK Pathan,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",25-05-2012,dot,19-05-2011
+335983,1,15,3,JDP Oram,MEK Hussey,IK Pathan,0,0,0,1,bowled,JDP Oram,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",27-05-2012,dot,20-05-2011
+335983,1,15,4,S Badrinath,MEK Hussey,IK Pathan,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,03-04-2013,dot,21-05-2011
+335983,1,15,5,S Badrinath,MEK Hussey,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,04-04-2013,other,21-05-2011
+335983,1,15,6,MEK Hussey,S Badrinath,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",05-04-2013,other,22-05-2011
+335983,1,16,1,MEK Hussey,S Badrinath,S Sreesanth,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,06-04-2013,other,22-05-2011
+335983,1,16,2,S Badrinath,MEK Hussey,S Sreesanth,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",06-04-2013,other,24-05-2011
+335983,1,16,3,MEK Hussey,S Badrinath,S Sreesanth,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,07-04-2013,boundary,25-05-2011
+335983,1,16,4,MEK Hussey,S Badrinath,S Sreesanth,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",07-04-2013,boundary,27-05-2011
+335983,1,16,5,MEK Hussey,S Badrinath,S Sreesanth,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,08-04-2013,other,28-05-2011
+335983,1,16,6,S Badrinath,MEK Hussey,S Sreesanth,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,09-04-2013,other,04-04-2012
+335983,1,17,1,S Badrinath,MEK Hussey,IK Pathan,0,0,0,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",10-04-2013,dot,05-04-2012
+335983,1,17,2,S Badrinath,MEK Hussey,IK Pathan,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,11-04-2013,boundary,06-04-2012
+335983,1,17,3,S Badrinath,MEK Hussey,IK Pathan,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,11-04-2013,other,06-04-2012
+335983,1,17,4,MEK Hussey,S Badrinath,IK Pathan,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,12-04-2013,other,07-04-2012
+335983,1,17,5,MEK Hussey,S Badrinath,IK Pathan,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Wankhede Stadium,13-04-2013,boundary,07-04-2012
+335983,1,17,6,MEK Hussey,S Badrinath,IK Pathan,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",13-04-2013,boundary,08-04-2012
+335983,1,18,1,S Badrinath,MEK Hussey,B Lee,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,14-04-2013,boundary,08-04-2012
+335983,1,18,2,S Badrinath,MEK Hussey,B Lee,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,14-04-2013,other,09-04-2012
+335983,1,18,3,MEK Hussey,S Badrinath,B Lee,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"MA Chidambaram Stadium, Chepauk",15-04-2013,other,10-04-2012
+335983,1,18,4,S Badrinath,MEK Hussey,B Lee,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Punjab Cricket Association Stadium, Mohali",16-04-2013,other,10-04-2012
+335983,1,18,5,MEK Hussey,S Badrinath,B Lee,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,16-04-2013,boundary,11-04-2012
+335983,1,18,6,MEK Hussey,S Badrinath,B Lee,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Subrata Roy Sahara Stadium,17-04-2013,other,12-04-2012
+335983,1,19,1,S Badrinath,MEK Hussey,JR Hopes,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Sawai Mansingh Stadium,17-04-2013,boundary,12-04-2012
+335983,1,19,2,S Badrinath,MEK Hussey,JR Hopes,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,18-04-2013,boundary,13-04-2012
+335983,1,19,3,S Badrinath,MEK Hussey,JR Hopes,4,0,4,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,"Rajiv Gandhi International Stadium, Uppal",19-04-2013,boundary,19-04-2012
+335983,1,19,4,S Badrinath,MEK Hussey,JR Hopes,1,0,1,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Eden Gardens,20-04-2013,other,14-04-2012
+335983,1,19,5,MEK Hussey,S Badrinath,JR Hopes,6,0,6,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,M Chinnaswamy Stadium,20-04-2013,boundary,15-04-2012
+335983,1,19,6,MEK Hussey,S Badrinath,JR Hopes,2,0,2,0,NA,NA,NA,NA,Chennai Super Kings,Kings XI Punjab,Feroz Shah Kotla,21-04-2013,other,15-04-2012
+335983,2,0,1,K Goel,JR Hopes,JDP Oram,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",21-04-2013,boundary,16-04-2012
+335983,2,0,2,K Goel,JR Hopes,JDP Oram,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",22-04-2013,dot,17-04-2012
+335983,2,0,3,K Goel,JR Hopes,JDP Oram,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,23-04-2013,dot,17-04-2012
+335983,2,0,4,K Goel,JR Hopes,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,16-05-2013,other,18-04-2012
+335983,2,0,5,JR Hopes,K Goel,JDP Oram,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,24-04-2013,dot,10-05-2012
+335983,2,0,6,JR Hopes,K Goel,JDP Oram,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",25-04-2013,boundary,19-04-2012
+335983,2,1,1,K Goel,JR Hopes,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,26-04-2013,other,20-04-2012
+335983,2,1,2,JR Hopes,K Goel,MS Gony,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sawai Mansingh Stadium,27-04-2013,dot,21-04-2012
+335983,2,1,3,JR Hopes,K Goel,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,27-04-2013,other,21-04-2012
+335983,2,1,4,K Goel,JR Hopes,MS Gony,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",28-04-2013,dot,22-04-2012
+335983,2,1,5,K Goel,JR Hopes,MS Gony,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,28-04-2013,boundary,22-04-2012
+335983,2,1,6,K Goel,JR Hopes,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sawai Mansingh Stadium,29-04-2013,other,23-04-2012
+335983,2,2,1,K Goel,JR Hopes,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,29-04-2013,other,24-04-2012
+335983,2,2,2,JR Hopes,K Goel,JDP Oram,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Subrata Roy Sahara Stadium,30-04-2013,boundary,25-04-2012
+335983,2,2,3,JR Hopes,K Goel,JDP Oram,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",01-05-2013,dot,26-04-2012
+335983,2,2,4,JR Hopes,K Goel,JDP Oram,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Shaheed Veer Narayan Singh International Stadium,01-05-2013,boundary,27-04-2012
+335983,2,2,5,JR Hopes,K Goel,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",02-05-2013,other,28-04-2012
+335983,2,2,6,K Goel,JR Hopes,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Subrata Roy Sahara Stadium,02-05-2013,other,28-04-2012
+335983,2,3,1,K Goel,JR Hopes,MS Gony,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,03-05-2013,dot,29-04-2012
+335983,2,3,2,K Goel,JR Hopes,MS Gony,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",04-05-2013,dot,29-04-2012
+335983,2,3,3,K Goel,JR Hopes,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,14-05-2013,other,30-04-2012
+335983,2,3,4,JR Hopes,K Goel,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,05-05-2013,other,01-05-2012
+335983,2,3,5,K Goel,JR Hopes,MS Gony,2,0,2,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sawai Mansingh Stadium,05-05-2013,other,01-05-2012
+335983,2,3,6,K Goel,JR Hopes,MS Gony,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,09-04-2013,boundary,02-05-2012
+335983,2,4,1,JR Hopes,K Goel,JDP Oram,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sawai Mansingh Stadium,07-05-2013,dot,03-05-2012
+335983,2,4,2,JR Hopes,K Goel,JDP Oram,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,07-05-2013,dot,04-05-2012
+335983,2,4,3,JR Hopes,K Goel,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",08-05-2013,other,05-05-2012
+335983,2,4,4,K Goel,JR Hopes,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",09-05-2013,other,05-05-2012
+335983,2,4,5,JR Hopes,K Goel,JDP Oram,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Subrata Roy Sahara Stadium,09-05-2013,boundary,06-05-2012
+335983,2,4,6,JR Hopes,K Goel,JDP Oram,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,10-05-2013,boundary,06-05-2012
+335983,2,5,1,K Goel,JR Hopes,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Subrata Roy Sahara Stadium,11-05-2013,other,07-05-2012
+335983,2,5,2,JR Hopes,K Goel,MS Gony,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",11-05-2013,boundary,08-05-2012
+335983,2,5,3,JR Hopes,K Goel,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,JSCA International Stadium Complex,12-05-2013,other,08-05-2012
+335983,2,5,4,K Goel,JR Hopes,MS Gony,0,1,1,0,NA,NA,NA,wides,Kings XI Punjab,Chennai Super Kings,Sawai Mansingh Stadium,12-05-2013,other,09-05-2012
+335983,2,5,5,K Goel,JR Hopes,MS Gony,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,23-04-2013,dot,10-05-2012
+335983,2,5,6,K Goel,JR Hopes,MS Gony,0,0,0,1,caught,K Goel,PA Patel,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,13-05-2013,dot,11-05-2012
+335983,2,5,7,JR Hopes,KC Sangakkara,MS Gony,0,1,1,0,NA,NA,NA,wides,Kings XI Punjab,Chennai Super Kings,JSCA International Stadium Complex,15-05-2013,other,12-05-2012
+335983,2,5,8,JR Hopes,KC Sangakkara,MS Gony,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",14-05-2013,boundary,12-05-2012
+335983,2,6,1,KC Sangakkara,JR Hopes,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,15-05-2013,other,13-05-2012
+335983,2,6,2,JR Hopes,KC Sangakkara,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",06-05-2013,other,13-05-2012
+335983,2,6,3,KC Sangakkara,JR Hopes,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",17-05-2013,other,14-05-2012
+335983,2,6,4,JR Hopes,KC Sangakkara,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Himachal Pradesh Cricket Association Stadium,18-05-2013,other,14-05-2012
+335983,2,6,5,KC Sangakkara,JR Hopes,M Muralitharan,0,1,1,0,NA,NA,NA,legbyes,Kings XI Punjab,Chennai Super Kings,Subrata Roy Sahara Stadium,19-05-2013,other,15-05-2012
+335983,2,6,6,JR Hopes,KC Sangakkara,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,18-05-2013,other,16-05-2012
+335983,2,7,1,JR Hopes,KC Sangakkara,P Amarnath,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",19-05-2013,boundary,17-05-2012
+335983,2,7,2,JR Hopes,KC Sangakkara,P Amarnath,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,21-05-2013,boundary,17-05-2012
+335983,2,7,3,JR Hopes,KC Sangakkara,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,22-05-2013,other,18-05-2012
+335983,2,7,4,KC Sangakkara,JR Hopes,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,24-05-2013,other,19-05-2012
+335983,2,7,5,JR Hopes,KC Sangakkara,P Amarnath,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,26-05-2013,boundary,19-05-2012
+335983,2,7,6,JR Hopes,KC Sangakkara,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,16-04-2014,other,20-05-2012
+335983,2,8,1,JR Hopes,KC Sangakkara,Joginder Sharma,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sharjah Cricket Stadium,17-04-2014,boundary,20-05-2012
+335983,2,8,2,JR Hopes,KC Sangakkara,Joginder Sharma,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,18-04-2014,boundary,22-05-2012
+335983,2,8,3,JR Hopes,KC Sangakkara,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,18-04-2014,other,23-05-2012
+335983,2,8,4,KC Sangakkara,JR Hopes,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,19-04-2014,other,25-05-2012
+335983,2,8,5,JR Hopes,KC Sangakkara,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,19-04-2014,other,27-05-2012
+335983,2,8,6,KC Sangakkara,JR Hopes,Joginder Sharma,0,1,1,0,NA,NA,NA,wides,Kings XI Punjab,Chennai Super Kings,Sharjah Cricket Stadium,20-04-2014,other,03-04-2013
+335983,2,8,7,KC Sangakkara,JR Hopes,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,21-04-2014,other,04-04-2013
+335983,2,9,1,KC Sangakkara,JR Hopes,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sharjah Cricket Stadium,22-04-2014,other,05-04-2013
+335983,2,9,2,JR Hopes,KC Sangakkara,M Muralitharan,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,23-04-2014,boundary,06-04-2013
+335983,2,9,3,JR Hopes,KC Sangakkara,M Muralitharan,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sharjah Cricket Stadium,24-04-2014,dot,06-04-2013
+335983,2,9,4,JR Hopes,KC Sangakkara,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,25-04-2014,other,07-04-2013
+335983,2,9,5,KC Sangakkara,JR Hopes,M Muralitharan,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,25-04-2014,boundary,07-04-2013
+335983,2,9,6,KC Sangakkara,JR Hopes,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,26-04-2014,other,08-04-2013
+335983,2,10,1,KC Sangakkara,JR Hopes,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,26-04-2014,other,09-04-2013
+335983,2,10,2,JR Hopes,KC Sangakkara,P Amarnath,0,0,0,1,caught,JR Hopes,Joginder Sharma,NA,Kings XI Punjab,Chennai Super Kings,Sharjah Cricket Stadium,27-04-2014,dot,10-04-2013
+335983,2,10,3,KC Sangakkara,Yuvraj Singh,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sharjah Cricket Stadium,27-04-2014,other,11-04-2013
+335983,2,10,4,Yuvraj Singh,KC Sangakkara,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,28-04-2014,other,11-04-2013
+335983,2,10,5,KC Sangakkara,Yuvraj Singh,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,29-04-2014,other,12-04-2013
+335983,2,10,6,Yuvraj Singh,KC Sangakkara,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,30-04-2014,other,13-04-2013
+335983,2,11,1,Yuvraj Singh,KC Sangakkara,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,JSCA International Stadium Complex,02-05-2014,other,13-04-2013
+335983,2,11,2,KC Sangakkara,Yuvraj Singh,Joginder Sharma,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,03-05-2014,boundary,14-04-2013
+335983,2,11,3,KC Sangakkara,Yuvraj Singh,Joginder Sharma,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,03-05-2014,boundary,14-04-2013
+335983,2,11,4,KC Sangakkara,Yuvraj Singh,Joginder Sharma,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,04-05-2014,dot,15-04-2013
+335983,2,11,5,KC Sangakkara,Yuvraj Singh,Joginder Sharma,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Sardar Patel Stadium, Motera",05-05-2014,dot,16-04-2013
+335983,2,11,6,KC Sangakkara,Yuvraj Singh,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,05-05-2014,other,16-04-2013
+335983,2,12,1,KC Sangakkara,Yuvraj Singh,P Amarnath,0,1,1,0,NA,NA,NA,legbyes,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,06-05-2014,other,17-04-2013
+335983,2,12,2,Yuvraj Singh,KC Sangakkara,P Amarnath,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,07-05-2014,boundary,17-04-2013
+335983,2,12,3,Yuvraj Singh,KC Sangakkara,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Barabati Stadium,07-05-2014,other,18-04-2013
+335983,2,12,4,KC Sangakkara,Yuvraj Singh,P Amarnath,0,1,1,0,NA,NA,NA,legbyes,Kings XI Punjab,Chennai Super Kings,"Sardar Patel Stadium, Motera",08-05-2014,other,19-04-2013
+335983,2,12,5,Yuvraj Singh,KC Sangakkara,P Amarnath,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,09-05-2014,boundary,20-04-2013
+335983,2,12,6,Yuvraj Singh,KC Sangakkara,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,10-05-2014,other,20-04-2013
+335983,2,13,1,Yuvraj Singh,KC Sangakkara,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,10-05-2014,other,21-04-2013
+335983,2,13,2,KC Sangakkara,Yuvraj Singh,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Barabati Stadium,11-05-2014,other,21-04-2013
+335983,2,13,3,Yuvraj Singh,KC Sangakkara,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,11-05-2014,other,22-04-2013
+335983,2,13,4,KC Sangakkara,Yuvraj Singh,M Muralitharan,0,2,2,0,NA,NA,NA,wides,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",12-05-2014,other,23-04-2013
+335983,2,13,5,Yuvraj Singh,KC Sangakkara,M Muralitharan,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,JSCA International Stadium Complex,13-05-2014,boundary,16-05-2013
+335983,2,13,6,Yuvraj Singh,KC Sangakkara,M Muralitharan,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,13-05-2014,dot,24-04-2013
+335983,2,13,7,Yuvraj Singh,KC Sangakkara,M Muralitharan,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",14-05-2014,dot,25-04-2013
+335983,2,14,1,KC Sangakkara,Yuvraj Singh,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Barabati Stadium,14-05-2014,other,26-04-2013
+335983,2,14,2,Yuvraj Singh,KC Sangakkara,Joginder Sharma,0,0,0,1,caught,Yuvraj Singh,P Amarnath,NA,Kings XI Punjab,Chennai Super Kings,"Sardar Patel Stadium, Motera",15-05-2014,dot,27-04-2013
+335983,2,14,3,KC Sangakkara,SM Katich,Joginder Sharma,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,JSCA International Stadium Complex,18-05-2014,boundary,27-04-2013
+335983,2,14,4,KC Sangakkara,SM Katich,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",18-05-2014,other,28-04-2013
+335983,2,14,5,SM Katich,KC Sangakkara,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Sardar Patel Stadium, Motera",19-05-2014,other,28-04-2013
+335983,2,14,6,KC Sangakkara,SM Katich,Joginder Sharma,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,19-05-2014,boundary,29-04-2013
+335983,2,15,1,SM Katich,KC Sangakkara,P Amarnath,2,0,2,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal",20-05-2014,other,29-04-2013
+335983,2,15,2,SM Katich,KC Sangakkara,P Amarnath,0,1,1,0,NA,NA,NA,byes,Kings XI Punjab,Chennai Super Kings,Eden Gardens,20-05-2014,other,30-04-2013
+335983,2,15,3,KC Sangakkara,SM Katich,P Amarnath,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",21-05-2014,boundary,01-05-2013
+335983,2,15,4,KC Sangakkara,SM Katich,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,22-05-2014,other,01-05-2013
+335983,2,15,5,SM Katich,KC Sangakkara,P Amarnath,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,JSCA International Stadium Complex,22-05-2014,other,02-05-2013
+335983,2,15,6,KC Sangakkara,SM Katich,P Amarnath,2,0,2,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,23-05-2014,other,02-05-2013
+335983,2,16,1,SM Katich,KC Sangakkara,MS Gony,0,1,1,0,NA,NA,NA,legbyes,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",23-05-2014,other,03-05-2013
+335983,2,16,2,KC Sangakkara,SM Katich,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,24-05-2014,other,04-05-2013
+335983,2,16,3,SM Katich,KC Sangakkara,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,24-05-2014,other,14-05-2013
+335983,2,16,4,KC Sangakkara,SM Katich,MS Gony,4,0,4,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Punjab Cricket Association Stadium, Mohali",25-05-2014,boundary,05-05-2013
+335983,2,16,5,KC Sangakkara,SM Katich,MS Gony,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,25-05-2014,other,05-05-2013
+335983,2,16,6,SM Katich,KC Sangakkara,MS Gony,2,0,2,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,27-05-2014,other,09-04-2013
+335983,2,17,1,KC Sangakkara,SM Katich,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Brabourne Stadium,28-05-2014,other,07-05-2013
+335983,2,17,2,SM Katich,KC Sangakkara,M Muralitharan,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,30-05-2014,other,07-05-2013
+335983,2,17,3,KC Sangakkara,SM Katich,M Muralitharan,2,0,2,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,01-06-2014,other,08-05-2013
+335983,2,17,4,KC Sangakkara,SM Katich,M Muralitharan,0,0,0,1,caught,KC Sangakkara,Joginder Sharma,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,08-04-2015,dot,09-05-2013
+335983,2,17,5,SM Katich,IK Pathan,M Muralitharan,0,1,1,0,NA,NA,NA,byes,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",09-04-2015,other,09-05-2013
+335983,2,17,6,IK Pathan,SM Katich,M Muralitharan,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Maharashtra Cricket Association Stadium,10-04-2015,dot,10-05-2013
+335983,2,18,1,SM Katich,IK Pathan,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk",11-04-2015,other,11-05-2013
+335983,2,18,2,IK Pathan,SM Katich,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,11-04-2015,other,11-05-2013
+335983,2,18,3,SM Katich,IK Pathan,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Feroz Shah Kotla,12-04-2015,other,12-05-2013
+335983,2,18,4,IK Pathan,SM Katich,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,12-04-2015,other,12-05-2013
+335983,2,18,5,SM Katich,IK Pathan,JDP Oram,2,0,2,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,M Chinnaswamy Stadium,13-04-2015,other,23-04-2013
+335983,2,18,6,SM Katich,IK Pathan,JDP Oram,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,"Sardar Patel Stadium, Motera",14-04-2015,other,13-05-2013
+335983,2,19,1,SM Katich,IK Pathan,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Eden Gardens,30-04-2015,other,15-05-2013
+335983,2,19,2,IK Pathan,SM Katich,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Maharashtra Cricket Association Stadium,15-04-2015,other,14-05-2013
+335983,2,19,3,SM Katich,IK Pathan,Joginder Sharma,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,16-04-2015,dot,15-05-2013
+335983,2,19,4,SM Katich,IK Pathan,Joginder Sharma,6,0,6,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Wankhede Stadium,17-04-2015,boundary,06-05-2013
+335983,2,19,5,SM Katich,IK Pathan,Joginder Sharma,1,0,1,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,18-04-2015,other,17-05-2013
+335983,2,19,6,IK Pathan,SM Katich,Joginder Sharma,0,0,0,0,NA,NA,NA,NA,Kings XI Punjab,Chennai Super Kings,Maharashtra Cricket Association Stadium,18-04-2015,dot,18-05-2013
+335984,1,0,1,T Kohli,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Sardar Patel Stadium, Motera",19-04-2015,dot,19-05-2013
+335984,1,0,2,T Kohli,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,19-04-2015,dot,18-05-2013
+335984,1,0,3,T Kohli,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,20-04-2015,dot,19-05-2013
+335984,1,0,4,T Kohli,YK Pathan,GD McGrath,0,1,1,0,NA,NA,NA,wides,Rajasthan Royals,Delhi Daredevils,"Sardar Patel Stadium, Motera",21-04-2015,other,21-05-2013
+335984,1,0,5,T Kohli,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,22-04-2015,dot,22-05-2013
+335984,1,0,6,T Kohli,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,22-04-2015,dot,24-05-2013
+335984,1,0,7,T Kohli,YK Pathan,GD McGrath,6,0,6,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,23-04-2015,boundary,26-05-2013
+335984,1,1,1,YK Pathan,T Kohli,B Geeves,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Sardar Patel Stadium, Motera",24-04-2015,other,16-04-2014
+335984,1,1,2,T Kohli,YK Pathan,B Geeves,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,25-04-2015,dot,17-04-2014
+335984,1,1,3,T Kohli,YK Pathan,B Geeves,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",25-04-2015,dot,18-04-2014
+335984,1,1,4,T Kohli,YK Pathan,B Geeves,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,26-04-2015,other,18-04-2014
+335984,1,1,5,YK Pathan,T Kohli,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",27-04-2015,boundary,19-04-2014
+335984,1,1,6,YK Pathan,T Kohli,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,07-05-2015,boundary,19-04-2014
+335984,1,2,1,T Kohli,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,29-04-2015,dot,20-04-2014
+335984,1,2,2,T Kohli,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",28-04-2015,dot,21-04-2014
+335984,1,2,3,T Kohli,YK Pathan,GD McGrath,0,0,0,1,caught,T Kohli,M Manhas,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,01-05-2015,dot,22-04-2014
+335984,1,2,4,SR Watson,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,01-05-2015,dot,23-04-2014
+335984,1,2,5,SR Watson,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,02-05-2015,dot,24-04-2014
+335984,1,2,6,SR Watson,YK Pathan,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",02-05-2015,dot,25-04-2014
+335984,1,3,1,YK Pathan,SR Watson,B Geeves,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",03-05-2015,other,25-04-2014
+335984,1,3,2,SR Watson,YK Pathan,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Brabourne Stadium,03-05-2015,boundary,26-04-2014
+335984,1,3,3,SR Watson,YK Pathan,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",04-05-2015,boundary,26-04-2014
+335984,1,3,4,SR Watson,YK Pathan,B Geeves,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,04-05-2015,other,27-04-2014
+335984,1,3,5,YK Pathan,SR Watson,B Geeves,0,0,0,1,run out,YK Pathan,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,05-05-2015,dot,27-04-2014
+335984,1,3,6,SR Watson,M Kaif,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,06-05-2015,boundary,28-04-2014
+335984,1,4,1,M Kaif,SR Watson,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Brabourne Stadium,07-05-2015,dot,29-04-2014
+335984,1,4,2,M Kaif,SR Watson,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",08-05-2015,dot,30-04-2014
+335984,1,4,3,M Kaif,SR Watson,GD McGrath,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,09-05-2015,other,02-05-2014
+335984,1,4,4,SR Watson,M Kaif,GD McGrath,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,09-05-2015,boundary,03-05-2014
+335984,1,4,5,SR Watson,M Kaif,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,10-05-2015,dot,03-05-2014
+335984,1,4,6,SR Watson,M Kaif,GD McGrath,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"MA Chidambaram Stadium, Chepauk",10-05-2015,other,04-05-2014
+335984,1,5,1,SR Watson,M Kaif,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",11-05-2015,dot,05-05-2014
+335984,1,5,2,SR Watson,M Kaif,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,12-05-2015,other,05-05-2014
+335984,1,5,3,M Kaif,SR Watson,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",13-05-2015,dot,06-05-2014
+335984,1,5,4,M Kaif,SR Watson,MF Maharoof,0,1,1,0,NA,NA,NA,legbyes,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,14-05-2015,other,07-05-2014
+335984,1,5,5,SR Watson,M Kaif,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",15-05-2015,other,07-05-2014
+335984,1,5,6,M Kaif,SR Watson,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association Stadium, Mohali",16-05-2015,dot,08-05-2014
+335984,1,6,1,SR Watson,M Kaif,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Brabourne Stadium,16-05-2015,dot,09-05-2014
+335984,1,6,2,SR Watson,M Kaif,R Bhatia,1,0,1,1,run out,SR Watson,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,17-05-2015,other,10-05-2014
+335984,1,6,3,M Kaif,DS Lehmann,R Bhatia,2,0,2,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",17-05-2015,other,10-05-2014
+335984,1,6,4,M Kaif,DS Lehmann,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,19-05-2015,dot,11-05-2014
+335984,1,6,5,M Kaif,DS Lehmann,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Maharashtra Cricket Association Stadium,20-05-2015,dot,11-05-2014
+335984,1,6,6,M Kaif,DS Lehmann,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,JSCA International Stadium Complex,22-05-2015,other,12-05-2014
+335984,1,7,1,M Kaif,DS Lehmann,MF Maharoof,0,1,1,0,NA,NA,NA,legbyes,Rajasthan Royals,Delhi Daredevils,Eden Gardens,24-05-2015,other,13-05-2014
+335984,1,7,2,DS Lehmann,M Kaif,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,09-04-2016,other,13-05-2014
+335984,1,7,3,M Kaif,DS Lehmann,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,10-04-2016,other,14-05-2014
+335984,1,7,4,DS Lehmann,M Kaif,MF Maharoof,0,0,0,1,lbw,DS Lehmann,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Moha",11-04-2016,dot,14-05-2014
+335984,1,7,5,RA Jadeja,M Kaif,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,12-04-2016,dot,15-05-2014
+335984,1,7,6,RA Jadeja,M Kaif,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,13-04-2016,other,18-05-2014
+335984,1,8,1,RA Jadeja,M Kaif,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Saurashtra Cricket Association Stadium,14-04-2016,dot,18-05-2014
+335984,1,8,2,RA Jadeja,M Kaif,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,15-04-2016,dot,19-05-2014
+335984,1,8,3,RA Jadeja,M Kaif,R Bhatia,0,1,1,0,NA,NA,NA,byes,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",16-04-2016,other,19-05-2014
+335984,1,8,4,M Kaif,RA Jadeja,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,16-04-2016,other,20-05-2014
+335984,1,8,5,RA Jadeja,M Kaif,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Moha",17-04-2016,dot,20-05-2014
+335984,1,8,6,RA Jadeja,M Kaif,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,17-04-2016,other,21-05-2014
+335984,1,9,1,RA Jadeja,M Kaif,MF Maharoof,0,1,1,0,NA,NA,NA,legbyes,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",18-04-2016,other,22-05-2014
+335984,1,9,2,M Kaif,RA Jadeja,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Moha",19-04-2016,other,22-05-2014
+335984,1,9,3,RA Jadeja,M Kaif,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,20-04-2016,other,23-05-2014
+335984,1,9,4,M Kaif,RA Jadeja,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Saurashtra Cricket Association Stadium,21-04-2016,other,23-05-2014
+335984,1,9,5,RA Jadeja,M Kaif,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Maharashtra Cricket Association Stadium,22-04-2016,other,24-05-2014
+335984,1,9,6,M Kaif,RA Jadeja,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,23-04-2016,other,24-05-2014
+335984,1,10,1,M Kaif,RA Jadeja,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",23-04-2016,dot,25-05-2014
+335984,1,10,2,M Kaif,RA Jadeja,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Saurashtra Cricket Association Stadium,24-04-2016,dot,25-05-2014
+335984,1,10,3,M Kaif,RA Jadeja,R Bhatia,0,0,0,1,caught,M Kaif,B Geeves,NA,Rajasthan Royals,Delhi Daredevils,Maharashtra Cricket Association Stadium,24-04-2016,dot,27-05-2014
+335984,1,10,4,M Rawat,RA Jadeja,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Moha",25-04-2016,other,28-05-2014
+335984,1,10,5,RA Jadeja,M Rawat,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",26-04-2016,dot,30-05-2014
+335984,1,10,6,RA Jadeja,M Rawat,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,27-04-2016,other,01-06-2014
+335984,1,11,1,RA Jadeja,M Rawat,DL Vettori,6,0,6,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,28-04-2016,boundary,08-04-2015
+335984,1,11,2,RA Jadeja,M Rawat,DL Vettori,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Maharashtra Cricket Association Stadium,29-04-2016,boundary,09-04-2015
+335984,1,11,3,RA Jadeja,M Rawat,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,30-04-2016,other,10-04-2015
+335984,1,11,4,M Rawat,RA Jadeja,DL Vettori,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",30-04-2016,dot,11-04-2015
+335984,1,11,5,M Rawat,RA Jadeja,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Saurashtra Cricket Association Stadium,01-05-2016,other,11-04-2015
+335984,1,11,6,RA Jadeja,M Rawat,DL Vettori,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Maharashtra Cricket Association Stadium,01-05-2016,dot,12-04-2015
+335984,1,12,1,M Rawat,RA Jadeja,R Bhatia,0,0,0,1,bowled,M Rawat,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,02-05-2016,dot,12-04-2015
+335984,1,12,2,D Salunkhe,RA Jadeja,R Bhatia,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Saurashtra Cricket Association Stadium,03-05-2016,boundary,13-04-2015
+335984,1,12,3,D Salunkhe,RA Jadeja,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,04-05-2016,other,14-04-2015
+335984,1,12,4,RA Jadeja,D Salunkhe,R Bhatia,0,2,2,0,NA,NA,NA,wides,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,05-05-2016,other,30-04-2015
+335984,1,12,5,D Salunkhe,RA Jadeja,R Bhatia,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",06-05-2016,dot,15-04-2015
+335984,1,12,6,D Salunkhe,RA Jadeja,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,07-05-2016,other,16-04-2015
+335984,1,12,7,RA Jadeja,D Salunkhe,R Bhatia,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Moha",07-05-2016,other,17-04-2015
+335984,1,13,1,RA Jadeja,D Salunkhe,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,08-05-2016,boundary,18-04-2015
+335984,1,13,2,RA Jadeja,D Salunkhe,B Geeves,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,08-05-2016,other,18-04-2015
+335984,1,13,3,D Salunkhe,RA Jadeja,B Geeves,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Moha",09-05-2016,other,19-04-2015
+335984,1,13,4,RA Jadeja,D Salunkhe,B Geeves,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,10-05-2016,dot,19-04-2015
+335984,1,13,5,RA Jadeja,D Salunkhe,B Geeves,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,11-05-2016,other,20-04-2015
+335984,1,13,6,D Salunkhe,RA Jadeja,B Geeves,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",12-05-2016,dot,21-04-2015
+335984,1,14,1,RA Jadeja,D Salunkhe,DL Vettori,6,0,6,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,13-05-2016,boundary,22-04-2015
+335984,1,14,2,RA Jadeja,D Salunkhe,DL Vettori,0,0,0,1,bowled,RA Jadeja,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,14-05-2016,dot,22-04-2015
+335984,1,14,3,SK Warne,D Salunkhe,DL Vettori,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,14-05-2016,dot,23-04-2015
+335984,1,14,4,SK Warne,D Salunkhe,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Punjab Cricket Association IS Bindra Stadium, Moha",15-05-2016,other,24-04-2015
+335984,1,14,5,D Salunkhe,SK Warne,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,15-05-2016,other,25-04-2015
+335984,1,14,6,SK Warne,D Salunkhe,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,16-05-2016,other,25-04-2015
+335984,1,15,1,SK Warne,D Salunkhe,B Geeves,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,17-05-2016,dot,26-04-2015
+335984,1,15,2,SK Warne,D Salunkhe,B Geeves,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,18-05-2016,dot,27-04-2015
+335984,1,15,3,SK Warne,D Salunkhe,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Green Park,19-05-2016,boundary,07-05-2015
+335984,1,15,4,SK Warne,D Salunkhe,B Geeves,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,20-05-2016,dot,29-04-2015
+335984,1,15,5,SK Warne,D Salunkhe,B Geeves,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,21-05-2016,boundary,28-04-2015
+335984,1,15,6,SK Warne,D Salunkhe,B Geeves,2,0,2,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Green Park,21-05-2016,other,01-05-2015
+335984,1,16,1,D Salunkhe,SK Warne,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,22-05-2016,other,01-05-2015
+335984,1,16,2,SK Warne,D Salunkhe,DL Vettori,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Shaheed Veer Narayan Singh International Stadium,22-05-2016,dot,02-05-2015
+335984,1,16,3,SK Warne,D Salunkhe,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,24-05-2016,other,02-05-2015
+335984,1,16,4,D Salunkhe,SK Warne,DL Vettori,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,25-05-2016,dot,03-05-2015
+335984,1,16,5,D Salunkhe,SK Warne,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,27-05-2016,other,03-05-2015
+335984,1,16,6,SK Warne,D Salunkhe,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,29-05-2016,other,04-05-2015
+335984,1,17,1,SK Warne,D Salunkhe,MF Maharoof,0,0,0,1,bowled,SK Warne,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",05-04-2017,dot,04-05-2015
+335984,1,17,2,SK Trivedi,D Salunkhe,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Maharashtra Cricket Association Stadium,06-04-2017,dot,05-05-2015
+335984,1,17,3,SK Trivedi,D Salunkhe,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Saurashtra Cricket Association Stadium,07-04-2017,dot,06-05-2015
+335984,1,17,4,SK Trivedi,D Salunkhe,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Holkar Cricket Stadium,08-04-2017,dot,07-05-2015
+335984,1,17,5,SK Trivedi,D Salunkhe,MF Maharoof,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M.Chinnaswamy Stadium,08-04-2017,other,08-05-2015
+335984,1,17,6,D Salunkhe,SK Trivedi,MF Maharoof,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,"Rajiv Gandhi International Stadium, Uppal",09-04-2017,dot,09-05-2015
+335984,1,18,1,SK Trivedi,D Salunkhe,DL Vettori,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,09-04-2017,dot,09-05-2015
+335984,1,18,2,SK Trivedi,D Salunkhe,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Holkar Cricket Stadium,10-04-2017,other,10-05-2015
+335984,1,18,3,D Salunkhe,SK Trivedi,DL Vettori,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Maharashtra Cricket Association Stadium,11-04-2017,boundary,10-05-2015
+335984,1,18,4,D Salunkhe,SK Trivedi,DL Vettori,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,12-04-2017,boundary,11-05-2015
+335984,1,18,5,D Salunkhe,SK Trivedi,DL Vettori,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,13-04-2017,dot,12-05-2015
+335984,1,18,6,D Salunkhe,SK Trivedi,DL Vettori,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,14-04-2017,other,13-05-2015
+335984,1,19,1,D Salunkhe,SK Trivedi,GD McGrath,4,0,4,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Saurashtra Cricket Association Stadium,14-04-2017,boundary,14-05-2015
+335984,1,19,2,D Salunkhe,SK Trivedi,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Eden Gardens,15-04-2017,dot,15-05-2015
+335984,1,19,3,D Salunkhe,SK Trivedi,GD McGrath,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,15-04-2017,other,16-05-2015
+335984,1,19,4,SK Trivedi,D Salunkhe,GD McGrath,1,0,1,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Wankhede Stadium,16-04-2017,other,16-05-2015
+335984,1,19,5,D Salunkhe,SK Trivedi,GD McGrath,2,0,2,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,M Chinnaswamy Stadium,16-04-2017,other,17-05-2015
+335984,1,19,6,D Salunkhe,SK Trivedi,GD McGrath,0,0,0,0,NA,NA,NA,NA,Rajasthan Royals,Delhi Daredevils,Feroz Shah Kotla,17-04-2017,dot,17-05-2015
+335984,2,0,1,G Gambhir,V Sehwag,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",17-04-2017,dot,19-05-2015
+335984,2,0,2,G Gambhir,V Sehwag,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Saurashtra Cricket Association Stadium,18-04-2017,dot,20-05-2015
+335984,2,0,3,G Gambhir,V Sehwag,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",19-04-2017,dot,22-05-2015
+335984,2,0,4,G Gambhir,V Sehwag,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Holkar Cricket Stadium,20-04-2017,dot,24-05-2015
+335984,2,0,5,G Gambhir,V Sehwag,MM Patel,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,21-04-2017,boundary,09-04-2016
+335984,2,0,6,G Gambhir,V Sehwag,MM Patel,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,22-04-2017,boundary,10-04-2016
+335984,2,1,1,V Sehwag,G Gambhir,SR Watson,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,22-04-2017,boundary,11-04-2016
+335984,2,1,2,V Sehwag,G Gambhir,SR Watson,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Saurashtra Cricket Association Stadium,23-04-2017,boundary,12-04-2016
+335984,2,1,3,V Sehwag,G Gambhir,SR Watson,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,23-04-2017,boundary,13-04-2016
+335984,2,1,4,V Sehwag,G Gambhir,SR Watson,0,0,0,1,bowled,V Sehwag,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,24-04-2017,dot,14-04-2016
+335984,2,1,5,S Dhawan,G Gambhir,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,26-04-2017,dot,15-04-2016
+335984,2,1,6,S Dhawan,G Gambhir,SR Watson,0,1,1,0,NA,NA,NA,wides,Delhi Daredevils,Rajasthan Royals,M Chinnaswamy Stadium,27-04-2017,other,16-04-2016
+335984,2,1,7,S Dhawan,G Gambhir,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,28-04-2017,dot,16-04-2016
+335984,2,2,1,G Gambhir,S Dhawan,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Moha",28-04-2017,dot,17-04-2016
+335984,2,2,2,G Gambhir,S Dhawan,MM Patel,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,29-04-2017,boundary,17-04-2016
+335984,2,2,3,G Gambhir,S Dhawan,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Saurashtra Cricket Association Stadium,29-04-2017,dot,18-04-2016
+335984,2,2,4,G Gambhir,S Dhawan,MM Patel,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Moha",30-04-2017,other,19-04-2016
+335984,2,2,5,S Dhawan,G Gambhir,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",30-04-2017,dot,20-04-2016
+335984,2,2,6,S Dhawan,G Gambhir,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,01-05-2017,dot,21-04-2016
+335984,2,3,1,G Gambhir,S Dhawan,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,01-05-2017,other,22-04-2016
+335984,2,3,2,S Dhawan,G Gambhir,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,02-05-2017,dot,23-04-2016
+335984,2,3,3,S Dhawan,G Gambhir,SR Watson,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,03-05-2017,boundary,23-04-2016
+335984,2,3,4,S Dhawan,G Gambhir,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,04-05-2017,other,24-04-2016
+335984,2,3,5,G Gambhir,S Dhawan,SR Watson,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M Chinnaswamy Stadium,05-05-2017,boundary,24-04-2016
+335984,2,3,6,G Gambhir,S Dhawan,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",06-05-2017,dot,25-04-2016
+335984,2,4,1,S Dhawan,G Gambhir,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,06-05-2017,dot,26-04-2016
+335984,2,4,2,S Dhawan,G Gambhir,MM Patel,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M Chinnaswamy Stadium,07-05-2017,other,27-04-2016
+335984,2,4,3,G Gambhir,S Dhawan,MM Patel,6,0,6,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Moha",07-05-2017,boundary,28-04-2016
+335984,2,4,4,G Gambhir,S Dhawan,MM Patel,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",08-05-2017,boundary,29-04-2016
+335984,2,4,5,G Gambhir,S Dhawan,MM Patel,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Moha",09-05-2017,dot,30-04-2016
+335984,2,4,6,G Gambhir,S Dhawan,MM Patel,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Green Park,10-05-2017,other,30-04-2016
+335984,2,5,1,G Gambhir,S Dhawan,SK Trivedi,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,11-05-2017,dot,01-05-2016
+335984,2,5,2,G Gambhir,S Dhawan,SK Trivedi,0,1,1,0,NA,NA,NA,wides,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,12-05-2017,other,01-05-2016
+335984,2,5,3,G Gambhir,S Dhawan,SK Trivedi,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Green Park,13-05-2017,other,02-05-2016
+335984,2,5,4,S Dhawan,G Gambhir,SK Trivedi,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,13-05-2017,dot,03-05-2016
+335984,2,5,5,S Dhawan,G Gambhir,SK Trivedi,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,14-05-2017,boundary,04-05-2016
+335984,2,5,6,S Dhawan,G Gambhir,SK Trivedi,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,14-05-2017,other,05-05-2016
+335984,2,5,7,G Gambhir,S Dhawan,SK Trivedi,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,16-05-2017,dot,06-05-2016
+335984,2,6,1,S Dhawan,G Gambhir,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M Chinnaswamy Stadium,17-05-2017,other,07-05-2016
+335984,2,6,2,G Gambhir,S Dhawan,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M Chinnaswamy Stadium,19-05-2017,other,07-05-2016
+335984,2,6,3,S Dhawan,G Gambhir,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",21-05-2017,dot,08-05-2016
+335984,2,6,4,S Dhawan,G Gambhir,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,07-04-2018,dot,08-05-2016
+335984,2,6,5,S Dhawan,G Gambhir,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Moha",08-04-2018,other,09-05-2016
+335984,2,6,6,G Gambhir,S Dhawan,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,08-04-2018,other,10-05-2016
+335984,2,7,1,G Gambhir,S Dhawan,SK Trivedi,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",09-04-2018,other,11-05-2016
+335984,2,7,2,S Dhawan,G Gambhir,SK Trivedi,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk",10-04-2018,boundary,12-05-2016
+335984,2,7,3,S Dhawan,G Gambhir,SK Trivedi,0,1,1,0,NA,NA,NA,wides,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,11-04-2018,other,13-05-2016
+335984,2,7,4,S Dhawan,G Gambhir,SK Trivedi,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",12-04-2018,dot,14-05-2016
+335984,2,7,5,S Dhawan,G Gambhir,SK Trivedi,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M.Chinnaswamy Stadium,13-04-2018,boundary,14-05-2016
+335984,2,7,6,S Dhawan,G Gambhir,SK Trivedi,2,0,2,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,14-04-2018,other,15-05-2016
+335984,2,7,7,S Dhawan,G Gambhir,SK Trivedi,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,14-04-2018,dot,15-05-2016
+335984,2,8,1,G Gambhir,S Dhawan,SK Warne,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M.Chinnaswamy Stadium,15-04-2018,dot,16-05-2016
+335984,2,8,2,G Gambhir,S Dhawan,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Moha",15-04-2018,other,17-05-2016
+335984,2,8,3,S Dhawan,G Gambhir,SK Warne,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,16-04-2018,boundary,18-05-2016
+335984,2,8,4,S Dhawan,G Gambhir,SK Warne,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,17-04-2018,dot,19-05-2016
+335984,2,8,5,S Dhawan,G Gambhir,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,18-04-2018,other,20-05-2016
+335984,2,8,6,G Gambhir,S Dhawan,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Punjab Cricket Association IS Bindra Stadium, Moha",19-04-2018,other,21-05-2016
+335984,2,9,1,G Gambhir,S Dhawan,YK Pathan,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,20-04-2018,dot,21-05-2016
+335984,2,9,2,G Gambhir,S Dhawan,YK Pathan,0,1,1,0,NA,NA,NA,wides,Delhi Daredevils,Rajasthan Royals,Eden Gardens,21-04-2018,other,22-05-2016
+335984,2,9,3,G Gambhir,S Dhawan,YK Pathan,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M.Chinnaswamy Stadium,21-04-2018,boundary,22-05-2016
+335984,2,9,4,G Gambhir,S Dhawan,YK Pathan,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",22-04-2018,other,24-05-2016
+335984,2,9,5,S Dhawan,G Gambhir,YK Pathan,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,22-04-2018,other,25-05-2016
+335984,2,9,6,G Gambhir,S Dhawan,YK Pathan,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,23-04-2018,dot,27-05-2016
+335984,2,9,7,G Gambhir,S Dhawan,YK Pathan,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,24-04-2018,other,29-05-2016
+335984,2,10,1,G Gambhir,S Dhawan,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M.Chinnaswamy Stadium,25-04-2018,other,05-04-2017
+335984,2,10,2,S Dhawan,G Gambhir,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",26-04-2018,other,06-04-2017
+335984,2,10,3,G Gambhir,S Dhawan,SK Warne,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,27-04-2018,boundary,07-04-2017
+335984,2,10,4,G Gambhir,S Dhawan,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,28-04-2018,other,08-04-2017
+335984,2,10,5,S Dhawan,G Gambhir,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,29-04-2018,other,08-04-2017
+335984,2,10,6,G Gambhir,S Dhawan,SK Warne,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M.Chinnaswamy Stadium,29-04-2018,other,09-04-2017
+335984,2,11,1,G Gambhir,S Dhawan,YK Pathan,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,30-04-2018,other,09-04-2017
+335984,2,11,2,S Dhawan,G Gambhir,YK Pathan,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M.Chinnaswamy Stadium,01-05-2018,other,10-04-2017
+335984,2,11,3,G Gambhir,S Dhawan,YK Pathan,2,0,2,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,02-05-2018,other,11-04-2017
+335984,2,11,4,G Gambhir,S Dhawan,YK Pathan,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Eden Gardens,03-05-2018,other,12-04-2017
+335984,2,11,5,S Dhawan,G Gambhir,YK Pathan,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Holkar Cricket Stadium,04-05-2018,dot,13-04-2017
+335984,2,11,6,S Dhawan,G Gambhir,YK Pathan,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,05-05-2018,dot,14-04-2017
+335984,2,12,1,G Gambhir,S Dhawan,D Salunkhe,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",05-05-2018,other,14-04-2017
+335984,2,12,2,S Dhawan,G Gambhir,D Salunkhe,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,06-05-2018,other,15-04-2017
+335984,2,12,3,G Gambhir,S Dhawan,D Salunkhe,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Holkar Cricket Stadium,06-05-2018,other,15-04-2017
+335984,2,12,4,S Dhawan,G Gambhir,D Salunkhe,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",07-05-2018,other,16-04-2017
+335984,2,12,5,G Gambhir,S Dhawan,D Salunkhe,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,08-05-2018,other,16-04-2017
+335984,2,12,6,S Dhawan,G Gambhir,D Salunkhe,0,5,5,0,NA,NA,NA,wides,Delhi Daredevils,Rajasthan Royals,Eden Gardens,09-05-2018,boundary,17-04-2017
+335984,2,12,7,S Dhawan,G Gambhir,D Salunkhe,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,10-05-2018,other,17-04-2017
+335984,2,13,1,S Dhawan,G Gambhir,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,11-05-2018,other,18-04-2017
+335984,2,13,2,G Gambhir,S Dhawan,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Holkar Cricket Stadium,12-05-2018,dot,19-04-2017
+335984,2,13,3,G Gambhir,S Dhawan,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,12-05-2018,other,20-04-2017
+335984,2,13,4,S Dhawan,G Gambhir,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,13-05-2018,other,21-04-2017
+335984,2,13,5,G Gambhir,S Dhawan,SR Watson,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,13-05-2018,other,22-04-2017
+335984,2,13,6,S Dhawan,G Gambhir,SR Watson,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Holkar Cricket Stadium,14-05-2018,dot,22-04-2017
+335984,2,14,1,G Gambhir,S Dhawan,SK Trivedi,0,1,1,0,NA,NA,NA,wides,Delhi Daredevils,Rajasthan Royals,Eden Gardens,15-05-2018,other,23-04-2017
+335984,2,14,2,G Gambhir,S Dhawan,SK Trivedi,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Wankhede Stadium,16-05-2018,other,23-04-2017
+335984,2,14,3,S Dhawan,G Gambhir,SK Trivedi,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,M.Chinnaswamy Stadium,17-05-2018,boundary,24-04-2017
+335984,2,14,4,S Dhawan,G Gambhir,SK Trivedi,2,0,2,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,18-05-2018,other,26-04-2017
+335984,2,14,5,S Dhawan,G Gambhir,SK Trivedi,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Sawai Mansingh Stadium,19-05-2018,boundary,27-04-2017
+335984,2,14,6,S Dhawan,G Gambhir,SK Trivedi,1,0,1,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal",19-05-2018,other,28-04-2017
+335984,2,14,7,G Gambhir,S Dhawan,SK Trivedi,0,0,0,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Feroz Shah Kotla,20-05-2018,dot,28-04-2017
+335984,2,15,1,S Dhawan,G Gambhir,YK Pathan,4,0,4,0,NA,NA,NA,NA,Delhi Daredevils,Rajasthan Royals,Maharashtra Cricket Association Stadium,20-05-2018,boundary,29-04-2017
+335985,1,0,1,L Ronchi,ST Jayasuriya,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,22-05-2018,dot,29-04-2017
+335985,1,0,2,L Ronchi,ST Jayasuriya,P Kumar,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,23-05-2018,boundary,30-04-2017
+335985,1,0,3,L Ronchi,ST Jayasuriya,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,25-05-2018,dot,30-04-2017
+335985,1,0,4,L Ronchi,ST Jayasuriya,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,27-05-2018,dot,01-05-2017
+335985,1,0,5,L Ronchi,ST Jayasuriya,P Kumar,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",23-03-2019,boundary,01-05-2017
+335985,1,0,6,L Ronchi,ST Jayasuriya,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,24-03-2019,dot,02-05-2017
+335985,1,1,1,ST Jayasuriya,L Ronchi,Z Khan,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,24-03-2019,other,03-05-2017
+335985,1,1,2,L Ronchi,ST Jayasuriya,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,25-03-2019,dot,04-05-2017
+335985,1,1,3,L Ronchi,ST Jayasuriya,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,26-03-2019,dot,05-05-2017
+335985,1,1,4,L Ronchi,ST Jayasuriya,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,27-03-2019,dot,06-05-2017
+335985,1,1,5,L Ronchi,ST Jayasuriya,Z Khan,0,0,0,1,caught,L Ronchi,V Kohli,NA,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,28-03-2019,dot,06-05-2017
+335985,1,1,6,DJ Thornely,ST Jayasuriya,Z Khan,0,4,4,0,NA,NA,NA,legbyes,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",29-03-2019,boundary,07-05-2017
+335985,1,2,1,ST Jayasuriya,DJ Thornely,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Moha",30-03-2019,dot,07-05-2017
+335985,1,2,2,ST Jayasuriya,DJ Thornely,P Kumar,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,30-03-2019,boundary,08-05-2017
+335985,1,2,3,ST Jayasuriya,DJ Thornely,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",31-03-2019,dot,09-05-2017
+335985,1,2,4,ST Jayasuriya,DJ Thornely,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",31-03-2019,other,10-05-2017
+335985,1,2,5,DJ Thornely,ST Jayasuriya,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Moha",01-04-2019,dot,11-05-2017
+335985,1,2,6,DJ Thornely,ST Jayasuriya,P Kumar,0,1,1,0,NA,NA,NA,wides,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,02-04-2019,other,12-05-2017
+335985,1,2,7,DJ Thornely,ST Jayasuriya,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,03-04-2019,dot,13-05-2017
+335985,1,3,1,ST Jayasuriya,DJ Thornely,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,04-04-2019,dot,13-05-2017
+335985,1,3,2,ST Jayasuriya,DJ Thornely,Z Khan,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,05-04-2019,other,14-05-2017
+335985,1,3,3,DJ Thornely,ST Jayasuriya,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",06-04-2019,dot,14-05-2017
+335985,1,3,4,DJ Thornely,ST Jayasuriya,Z Khan,0,0,0,1,retired hurt,DJ Thornely,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",06-04-2019,dot,16-05-2017
+335985,1,3,5,RV Uthappa,ST Jayasuriya,Z Khan,2,0,2,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,07-04-2019,other,17-05-2017
+335985,1,3,6,RV Uthappa,ST Jayasuriya,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,07-04-2019,dot,19-05-2017
+335985,1,4,1,ST Jayasuriya,RV Uthappa,JH Kallis,0,1,1,0,NA,NA,NA,wides,Mumbai Indians,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Moha",08-04-2019,other,21-05-2017
+335985,1,4,2,ST Jayasuriya,RV Uthappa,JH Kallis,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",09-04-2019,boundary,07-04-2018
+335985,1,4,3,ST Jayasuriya,RV Uthappa,JH Kallis,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,10-04-2019,boundary,08-04-2018
+335985,1,4,4,ST Jayasuriya,RV Uthappa,JH Kallis,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,11-04-2019,dot,08-04-2018
+335985,1,4,5,ST Jayasuriya,RV Uthappa,JH Kallis,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,12-04-2019,boundary,09-04-2018
+335985,1,4,6,ST Jayasuriya,RV Uthappa,JH Kallis,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,13-04-2019,dot,10-04-2018
+335985,1,4,7,ST Jayasuriya,RV Uthappa,JH Kallis,6,0,6,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Moha",13-04-2019,boundary,11-04-2018
+335985,1,5,1,RV Uthappa,ST Jayasuriya,Z Khan,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,14-04-2019,other,12-04-2018
+335985,1,5,2,ST Jayasuriya,RV Uthappa,Z Khan,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",14-04-2019,boundary,13-04-2018
+335985,1,5,3,ST Jayasuriya,RV Uthappa,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,15-04-2019,dot,14-04-2018
+335985,1,5,4,ST Jayasuriya,RV Uthappa,Z Khan,0,0,0,1,run out,ST Jayasuriya,Z Khan,NA,Mumbai Indians,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Moha",16-04-2019,dot,14-04-2018
+335985,1,5,5,RV Uthappa,PR Shah,Z Khan,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",17-04-2019,other,15-04-2018
+335985,1,5,6,PR Shah,RV Uthappa,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,18-04-2019,dot,15-04-2018
+335985,1,6,1,RV Uthappa,PR Shah,R Vinay Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,19-04-2019,other,16-04-2018
+335985,1,6,2,PR Shah,RV Uthappa,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,20-04-2019,dot,17-04-2018
+335985,1,6,3,PR Shah,RV Uthappa,R Vinay Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,20-04-2019,other,18-04-2018
+335985,1,6,4,RV Uthappa,PR Shah,R Vinay Kumar,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",21-04-2019,boundary,19-04-2018
+335985,1,6,5,RV Uthappa,PR Shah,R Vinay Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,21-04-2019,other,20-04-2018
+335985,1,6,6,PR Shah,RV Uthappa,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,22-04-2019,dot,21-04-2018
+335985,1,7,1,RV Uthappa,PR Shah,B Akhil,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",23-04-2019,dot,21-04-2018
+335985,1,7,2,RV Uthappa,PR Shah,B Akhil,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,24-04-2019,other,22-04-2018
+335985,1,7,3,PR Shah,RV Uthappa,B Akhil,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,25-04-2019,other,22-04-2018
+335985,1,7,4,RV Uthappa,PR Shah,B Akhil,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",26-04-2019,other,23-04-2018
+335985,1,7,5,PR Shah,RV Uthappa,B Akhil,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sawai Mansingh Stadium,27-04-2019,other,24-04-2018
+335985,1,7,6,RV Uthappa,PR Shah,B Akhil,2,0,2,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,28-04-2019,other,25-04-2018
+335985,1,8,1,PR Shah,RV Uthappa,JH Kallis,0,1,1,0,NA,NA,NA,legbyes,Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,28-04-2019,other,26-04-2018
+335985,1,8,2,RV Uthappa,PR Shah,JH Kallis,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",29-04-2019,other,27-04-2018
+335985,1,8,3,PR Shah,RV Uthappa,JH Kallis,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,30-04-2019,other,28-04-2018
+335985,1,8,4,RV Uthappa,PR Shah,JH Kallis,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",01-05-2019,boundary,29-04-2018
+335985,1,8,5,RV Uthappa,PR Shah,JH Kallis,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,02-05-2019,other,29-04-2018
+335985,1,8,6,PR Shah,RV Uthappa,JH Kallis,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Moha",03-05-2019,boundary,30-04-2018
+335985,1,9,1,RV Uthappa,PR Shah,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,04-05-2019,dot,01-05-2018
+335985,1,9,2,RV Uthappa,PR Shah,R Vinay Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,M.Chinnaswamy Stadium,04-05-2019,other,02-05-2018
+335985,1,9,3,PR Shah,RV Uthappa,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Punjab Cricket Association IS Bindra Stadium, Moha",05-05-2019,dot,03-05-2018
+335985,1,9,4,PR Shah,RV Uthappa,R Vinay Kumar,0,1,1,0,NA,NA,NA,legbyes,Mumbai Indians,Royal Challengers Bangalore,Wankhede Stadium,05-05-2019,other,04-05-2018
+335985,1,9,5,RV Uthappa,PR Shah,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk",07-05-2019,dot,05-05-2018
+335985,1,9,6,RV Uthappa,PR Shah,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,08-05-2019,dot,05-05-2018
+335985,1,10,1,PR Shah,RV Uthappa,SB Joshi,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadiu,10-05-2019,other,06-05-2018
+335985,1,10,2,RV Uthappa,PR Shah,SB Joshi,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal",12-05-2019,other,06-05-2018
+335985,1,10,3,PR Shah,RV Uthappa,SB Joshi,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,19-09-2020,boundary,07-05-2018
+335985,1,10,4,PR Shah,RV Uthappa,SB Joshi,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,20-09-2020,other,08-05-2018
+335985,1,10,5,RV Uthappa,PR Shah,SB Joshi,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,21-10-2020,dot,09-05-2018
+335985,1,10,6,RV Uthappa,PR Shah,SB Joshi,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,03-11-2020,dot,10-05-2018
+335985,1,11,1,PR Shah,RV Uthappa,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,22-09-2020,dot,11-05-2018
+335985,1,11,2,PR Shah,RV Uthappa,R Vinay Kumar,2,0,2,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,24-10-2020,other,12-05-2018
+335985,1,11,3,PR Shah,RV Uthappa,R Vinay Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,24-10-2020,other,12-05-2018
+335985,1,11,4,RV Uthappa,PR Shah,R Vinay Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,28-10-2020,dot,13-05-2018
+335985,1,11,5,RV Uthappa,PR Shah,R Vinay Kumar,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,09-10-2020,boundary,13-05-2018
+335985,1,11,6,RV Uthappa,PR Shah,R Vinay Kumar,6,0,6,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,07-10-2020,boundary,14-05-2018
+335985,1,12,1,PR Shah,RV Uthappa,SB Joshi,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,31-10-2020,dot,15-05-2018
+335985,1,12,2,PR Shah,RV Uthappa,SB Joshi,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,01-10-2020,other,16-05-2018
+335985,1,12,3,RV Uthappa,PR Shah,SB Joshi,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,30-09-2020,dot,17-05-2018
+335985,1,12,4,RV Uthappa,PR Shah,SB Joshi,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,02-11-2020,dot,18-05-2018
+335985,1,12,5,RV Uthappa,PR Shah,SB Joshi,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,01-11-2020,other,19-05-2018
+335985,1,12,6,PR Shah,RV Uthappa,SB Joshi,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,11-10-2020,other,19-05-2018
+335985,1,13,1,PR Shah,RV Uthappa,B Akhil,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,23-09-2020,dot,20-05-2018
+335985,1,13,2,PR Shah,RV Uthappa,B Akhil,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,17-10-2020,dot,20-05-2018
+335985,1,13,3,PR Shah,RV Uthappa,B Akhil,0,0,0,1,caught,PR Shah,V Kohli,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,24-09-2020,dot,22-05-2018
+335985,1,13,4,RV Uthappa,AM Nayar,B Akhil,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,06-10-2020,other,23-05-2018
+335985,1,13,5,AM Nayar,RV Uthappa,B Akhil,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,18-10-2020,dot,25-05-2018
+335985,1,13,6,AM Nayar,RV Uthappa,B Akhil,0,1,1,0,NA,NA,NA,byes,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,04-10-2020,other,27-05-2018
+335985,1,14,1,AM Nayar,RV Uthappa,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,03-10-2020,other,23-03-2019
+335985,1,14,2,RV Uthappa,AM Nayar,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,03-10-2020,other,24-03-2019
+335985,1,14,3,AM Nayar,RV Uthappa,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,02-10-2020,other,24-03-2019
+335985,1,14,4,RV Uthappa,AM Nayar,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,18-10-2020,dot,25-03-2019
+335985,1,14,5,RV Uthappa,AM Nayar,P Kumar,2,0,2,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,22-10-2020,other,26-03-2019
+335985,1,14,6,RV Uthappa,AM Nayar,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,05-10-2020,other,27-03-2019
+335985,1,15,1,RV Uthappa,AM Nayar,JH Kallis,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,26-10-2020,other,28-03-2019
+335985,1,15,2,AM Nayar,RV Uthappa,JH Kallis,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,23-10-2020,other,29-03-2019
+335985,1,15,3,RV Uthappa,AM Nayar,JH Kallis,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,17-10-2020,other,30-03-2019
+335985,1,15,4,AM Nayar,RV Uthappa,JH Kallis,0,1,1,0,NA,NA,NA,wides,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,10-10-2020,other,30-03-2019
+335985,1,15,5,AM Nayar,RV Uthappa,JH Kallis,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,27-10-2020,other,31-03-2019
+335985,1,15,6,RV Uthappa,AM Nayar,JH Kallis,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,10-10-2020,boundary,31-03-2019
+335985,1,15,7,RV Uthappa,AM Nayar,JH Kallis,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,16-10-2020,boundary,01-04-2019
+335985,1,16,1,AM Nayar,RV Uthappa,B Akhil,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,27-09-2020,other,02-04-2019
+335985,1,16,2,RV Uthappa,AM Nayar,B Akhil,0,1,1,0,NA,NA,NA,byes,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,13-10-2020,other,03-04-2019
+335985,1,16,3,AM Nayar,RV Uthappa,B Akhil,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,11-10-2020,boundary,04-04-2019
+335985,1,16,4,AM Nayar,RV Uthappa,B Akhil,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,01-11-2020,other,05-04-2019
+335985,1,16,5,RV Uthappa,AM Nayar,B Akhil,0,0,0,1,stumped,RV Uthappa,MV Boucher,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,15-10-2020,dot,06-04-2019
+335985,1,16,6,SM Pollock,AM Nayar,B Akhil,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,29-09-2020,boundary,06-04-2019
+335985,1,17,1,AM Nayar,SM Pollock,R Vinay Kumar,2,0,2,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,19-10-2020,other,07-04-2019
+335985,1,17,2,AM Nayar,SM Pollock,R Vinay Kumar,6,0,6,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,21-09-2020,boundary,07-04-2019
+335985,1,17,3,AM Nayar,SM Pollock,R Vinay Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,31-10-2020,other,08-04-2019
+335985,1,17,4,SM Pollock,AM Nayar,R Vinay Kumar,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,29-10-2020,boundary,09-04-2019
+335985,1,17,5,SM Pollock,AM Nayar,R Vinay Kumar,6,0,6,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,30-10-2020,boundary,10-04-2019
+335985,1,17,6,SM Pollock,AM Nayar,R Vinay Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,04-10-2020,other,11-04-2019
+335985,1,18,1,SM Pollock,AM Nayar,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,25-09-2020,other,12-04-2019
+335985,1,18,2,AM Nayar,SM Pollock,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sharjah Cricket Stadium,12-10-2020,other,13-04-2019
+335985,1,18,3,SM Pollock,AM Nayar,P Kumar,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,25-10-2020,dot,13-04-2019
+335985,1,18,4,SM Pollock,AM Nayar,P Kumar,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,08-10-2020,other,14-04-2019
+335985,1,18,5,AM Nayar,SM Pollock,P Kumar,0,0,0,1,caught,AM Nayar,Z Khan,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,14-10-2020,dot,14-04-2019
+335985,1,18,6,SM Pollock,Harbhajan Singh,P Kumar,6,0,6,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,25-10-2020,boundary,15-04-2019
+335985,1,19,1,Harbhajan Singh,SM Pollock,Z Khan,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,26-09-2020,other,16-04-2019
+335985,1,19,2,SM Pollock,Harbhajan Singh,Z Khan,0,0,0,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,20-10-2020,dot,17-04-2019
+335985,1,19,3,SM Pollock,Harbhajan Singh,Z Khan,4,0,4,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,28-09-2020,boundary,18-04-2019
+335985,1,19,4,SM Pollock,Harbhajan Singh,Z Khan,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Dubai International Cricket Stadium,05-11-2020,other,19-04-2019
+335985,1,19,5,Harbhajan Singh,SM Pollock,Z Khan,1,0,1,0,NA,NA,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,06-11-2020,other,20-04-2019
+335985,1,19,6,SM Pollock,Harbhajan Singh,Z Khan,0,0,0,1,bowled,SM Pollock,NA,NA,Mumbai Indians,Royal Challengers Bangalore,Sheikh Zayed Stadium,08-11-2020,dot,20-04-2019
+335985,2,0,1,S Chanderpaul,R Dravid,A Nehra,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,10-11-2020,dot,21-04-2019
+335985,2,0,2,S Chanderpaul,R Dravid,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,21-04-2019
+335985,2,0,3,R Dravid,S Chanderpaul,A Nehra,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,22-04-2019
+335985,2,0,4,R Dravid,S Chanderpaul,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,23-04-2019
+335985,2,0,5,S Chanderpaul,R Dravid,A Nehra,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,24-04-2019
+335985,2,0,6,S Chanderpaul,R Dravid,A Nehra,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,25-04-2019
+335985,2,1,1,R Dravid,S Chanderpaul,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,26-04-2019
+335985,2,1,2,R Dravid,S Chanderpaul,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,27-04-2019
+335985,2,1,3,R Dravid,S Chanderpaul,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,28-04-2019
+335985,2,1,4,R Dravid,S Chanderpaul,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,28-04-2019
+335985,2,1,5,R Dravid,S Chanderpaul,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,29-04-2019
+335985,2,1,6,R Dravid,S Chanderpaul,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,30-04-2019
+335985,2,2,1,R Dravid,S Chanderpaul,A Nehra,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,01-05-2019
+335985,2,2,2,R Dravid,S Chanderpaul,A Nehra,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,02-05-2019
+335985,2,2,3,R Dravid,S Chanderpaul,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,03-05-2019
+335985,2,2,4,S Chanderpaul,R Dravid,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,04-05-2019
+335985,2,2,5,R Dravid,S Chanderpaul,A Nehra,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,04-05-2019
+335985,2,2,6,R Dravid,S Chanderpaul,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,05-05-2019
+335985,2,3,1,R Dravid,S Chanderpaul,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,05-05-2019
+335985,2,3,2,R Dravid,S Chanderpaul,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,07-05-2019
+335985,2,3,3,S Chanderpaul,R Dravid,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,08-05-2019
+335985,2,3,4,R Dravid,S Chanderpaul,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,10-05-2019
+335985,2,3,5,S Chanderpaul,R Dravid,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,12-05-2019
+335985,2,3,6,R Dravid,S Chanderpaul,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,19-09-2020
+335985,2,4,1,R Dravid,S Chanderpaul,DS Kulkarni,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,20-09-2020
+335985,2,4,2,R Dravid,S Chanderpaul,DS Kulkarni,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,21-10-2020
+335985,2,4,3,S Chanderpaul,R Dravid,DS Kulkarni,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,03-11-2020
+335985,2,4,4,S Chanderpaul,R Dravid,DS Kulkarni,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,22-09-2020
+335985,2,4,5,S Chanderpaul,R Dravid,DS Kulkarni,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Mumbai Indians,,,other,24-10-2020
+335985,2,4,6,S Chanderpaul,R Dravid,DS Kulkarni,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,24-10-2020
+335985,2,4,7,S Chanderpaul,R Dravid,DS Kulkarni,0,0,0,1,caught,S Chanderpaul,AM Nayar,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,28-10-2020
+335985,2,5,1,LRPL Taylor,R Dravid,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,09-10-2020
+335985,2,5,2,R Dravid,LRPL Taylor,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,07-10-2020
+335985,2,5,3,R Dravid,LRPL Taylor,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,31-10-2020
+335985,2,5,4,R Dravid,LRPL Taylor,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,01-10-2020
+335985,2,5,5,LRPL Taylor,R Dravid,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,30-09-2020
+335985,2,5,6,R Dravid,LRPL Taylor,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,02-11-2020
+335985,2,6,1,LRPL Taylor,R Dravid,DS Kulkarni,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,01-11-2020
+335985,2,6,2,R Dravid,LRPL Taylor,DS Kulkarni,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,11-10-2020
+335985,2,6,3,R Dravid,LRPL Taylor,DS Kulkarni,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,23-09-2020
+335985,2,6,4,R Dravid,LRPL Taylor,DS Kulkarni,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,17-10-2020
+335985,2,6,5,R Dravid,LRPL Taylor,DS Kulkarni,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,24-09-2020
+335985,2,6,6,R Dravid,LRPL Taylor,DS Kulkarni,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,06-10-2020
+335985,2,7,1,R Dravid,LRPL Taylor,ST Jayasuriya,2,0,2,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,18-10-2020
+335985,2,7,2,R Dravid,LRPL Taylor,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,04-10-2020
+335985,2,7,3,LRPL Taylor,R Dravid,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,03-10-2020
+335985,2,7,4,R Dravid,LRPL Taylor,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,03-10-2020
+335985,2,7,5,LRPL Taylor,R Dravid,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,02-10-2020
+335985,2,7,6,R Dravid,LRPL Taylor,ST Jayasuriya,2,0,2,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,18-10-2020
+335985,2,8,1,LRPL Taylor,R Dravid,Harbhajan Singh,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,22-10-2020
+335985,2,8,2,LRPL Taylor,R Dravid,Harbhajan Singh,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,05-10-2020
+335985,2,8,3,LRPL Taylor,R Dravid,Harbhajan Singh,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Mumbai Indians,,,other,26-10-2020
+335985,2,8,4,LRPL Taylor,R Dravid,Harbhajan Singh,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,23-10-2020
+335985,2,8,5,LRPL Taylor,R Dravid,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,17-10-2020
+335985,2,8,6,R Dravid,LRPL Taylor,Harbhajan Singh,0,0,0,1,caught and bowled,R Dravid,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,10-10-2020
+335985,2,8,7,JH Kallis,LRPL Taylor,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,27-10-2020
+335985,2,9,1,JH Kallis,LRPL Taylor,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,10-10-2020
+335985,2,9,2,LRPL Taylor,JH Kallis,ST Jayasuriya,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,16-10-2020
+335985,2,9,3,LRPL Taylor,JH Kallis,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,27-09-2020
+335985,2,9,4,JH Kallis,LRPL Taylor,ST Jayasuriya,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,13-10-2020
+335985,2,9,5,JH Kallis,LRPL Taylor,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,11-10-2020
+335985,2,9,6,LRPL Taylor,JH Kallis,ST Jayasuriya,0,0,0,1,caught,LRPL Taylor,AM Nayar,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,01-11-2020
+335985,2,10,1,V Kohli,JH Kallis,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,15-10-2020
+335985,2,10,2,JH Kallis,V Kohli,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,29-09-2020
+335985,2,10,3,V Kohli,JH Kallis,Harbhajan Singh,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,19-10-2020
+335985,2,10,4,V Kohli,JH Kallis,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,21-09-2020
+335985,2,10,5,JH Kallis,V Kohli,Harbhajan Singh,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,31-10-2020
+335985,2,10,6,JH Kallis,V Kohli,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,29-10-2020
+335985,2,11,1,JH Kallis,V Kohli,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,30-10-2020
+335985,2,11,2,V Kohli,JH Kallis,ST Jayasuriya,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,04-10-2020
+335985,2,11,3,V Kohli,JH Kallis,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,25-09-2020
+335985,2,11,4,JH Kallis,V Kohli,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,12-10-2020
+335985,2,11,5,V Kohli,JH Kallis,ST Jayasuriya,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,25-10-2020
+335985,2,11,6,V Kohli,JH Kallis,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,08-10-2020
+335985,2,12,1,V Kohli,JH Kallis,AM Nayar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,14-10-2020
+335985,2,12,2,V Kohli,JH Kallis,AM Nayar,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,25-10-2020
+335985,2,12,3,V Kohli,JH Kallis,AM Nayar,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,26-09-2020
+335985,2,12,4,V Kohli,JH Kallis,AM Nayar,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,20-10-2020
+335985,2,12,5,V Kohli,JH Kallis,AM Nayar,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,28-09-2020
+335985,2,12,6,JH Kallis,V Kohli,AM Nayar,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,05-11-2020
+335985,2,13,1,JH Kallis,V Kohli,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,06-11-2020
+335985,2,13,2,V Kohli,JH Kallis,A Nehra,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Mumbai Indians,,,other,08-11-2020
+335985,2,13,3,V Kohli,JH Kallis,A Nehra,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,10-11-2020
+335985,2,13,4,V Kohli,JH Kallis,A Nehra,0,0,0,1,caught,V Kohli,L Ronchi,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,13,5,MV Boucher,JH Kallis,A Nehra,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,13,6,MV Boucher,JH Kallis,A Nehra,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,13,7,MV Boucher,JH Kallis,A Nehra,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,13,8,MV Boucher,JH Kallis,A Nehra,2,0,2,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,14,1,JH Kallis,MV Boucher,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,14,2,MV Boucher,JH Kallis,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,14,3,JH Kallis,MV Boucher,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,14,4,MV Boucher,JH Kallis,Harbhajan Singh,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,
+335985,2,14,5,MV Boucher,JH Kallis,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,14,6,JH Kallis,MV Boucher,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,15,1,JH Kallis,MV Boucher,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,15,2,MV Boucher,JH Kallis,SM Pollock,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,
+335985,2,15,3,MV Boucher,JH Kallis,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,15,4,JH Kallis,MV Boucher,SM Pollock,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,15,5,JH Kallis,MV Boucher,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,15,6,MV Boucher,JH Kallis,SM Pollock,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,16,1,MV Boucher,JH Kallis,ST Jayasuriya,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,
+335985,2,16,2,MV Boucher,JH Kallis,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,16,3,JH Kallis,MV Boucher,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,16,4,MV Boucher,JH Kallis,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,16,5,JH Kallis,MV Boucher,ST Jayasuriya,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,16,6,MV Boucher,JH Kallis,ST Jayasuriya,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,17,1,JH Kallis,MV Boucher,A Nehra,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,
+335985,2,17,2,JH Kallis,MV Boucher,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,17,3,MV Boucher,JH Kallis,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,17,4,JH Kallis,MV Boucher,A Nehra,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,17,5,MV Boucher,JH Kallis,A Nehra,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,
+335985,2,17,6,MV Boucher,JH Kallis,A Nehra,6,0,6,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,
+335985,2,18,1,JH Kallis,MV Boucher,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,18,2,MV Boucher,JH Kallis,Harbhajan Singh,4,0,4,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,boundary,
+335985,2,18,3,MV Boucher,JH Kallis,Harbhajan Singh,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,18,4,JH Kallis,MV Boucher,Harbhajan Singh,0,0,0,1,caught,JH Kallis,AM Nayar,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,18,5,B Akhil,MV Boucher,Harbhajan Singh,2,0,2,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,18,6,B Akhil,MV Boucher,Harbhajan Singh,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,19,1,MV Boucher,B Akhil,DS Kulkarni,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,19,2,B Akhil,MV Boucher,DS Kulkarni,0,1,1,0,NA,NA,NA,wides,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335985,2,19,3,B Akhil,MV Boucher,DS Kulkarni,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,19,4,B Akhil,MV Boucher,DS Kulkarni,0,0,0,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,dot,
+335985,2,19,5,B Akhil,MV Boucher,DS Kulkarni,1,0,1,0,NA,NA,NA,NA,Royal Challengers Bangalore,Mumbai Indians,,,other,
+335986,1,0,1,AC Gilchrist,Y Venugopal Rao,AB Dinda,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,0,2,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,1,1,0,NA,NA,NA,noballs,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,0,3,Y Venugopal Rao,AC Gilchrist,AB Dinda,2,0,2,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,0,4,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,0,5,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,0,6,Y Venugopal Rao,AC Gilchrist,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,0,7,Y Venugopal Rao,AC Gilchrist,AB Dinda,5,0,5,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,boundary,
+335986,1,1,1,Y Venugopal Rao,AC Gilchrist,I Sharma,0,1,1,0,NA,NA,NA,legbyes,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,1,2,AC Gilchrist,Y Venugopal Rao,I Sharma,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,1,3,Y Venugopal Rao,AC Gilchrist,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,1,4,Y Venugopal Rao,AC Gilchrist,I Sharma,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,1,5,AC Gilchrist,Y Venugopal Rao,I Sharma,0,1,1,0,NA,NA,NA,wides,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,1,6,AC Gilchrist,Y Venugopal Rao,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,1,7,AC Gilchrist,Y Venugopal Rao,I Sharma,0,1,1,0,NA,NA,NA,wides,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,1,8,AC Gilchrist,Y Venugopal Rao,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,2,1,Y Venugopal Rao,AC Gilchrist,AB Dinda,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,2,2,AC Gilchrist,Y Venugopal Rao,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,2,3,AC Gilchrist,Y Venugopal Rao,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,2,4,AC Gilchrist,Y Venugopal Rao,AB Dinda,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,2,5,Y Venugopal Rao,AC Gilchrist,AB Dinda,4,0,4,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,boundary,
+335986,1,2,6,Y Venugopal Rao,AC Gilchrist,AB Dinda,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,3,1,Y Venugopal Rao,AC Gilchrist,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,3,2,Y Venugopal Rao,AC Gilchrist,I Sharma,0,0,0,1,caught,Y Venugopal Rao,M Kartik,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,3,3,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,3,4,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,3,5,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,3,6,VVS Laxman,AC Gilchrist,I Sharma,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,4,1,AC Gilchrist,VVS Laxman,AB Dinda,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,4,2,VVS Laxman,AC Gilchrist,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,4,3,VVS Laxman,AC Gilchrist,AB Dinda,0,0,0,1,caught,VVS Laxman,LR Shukla,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,4,4,AC Gilchrist,A Symonds,AB Dinda,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,4,5,A Symonds,AC Gilchrist,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,4,6,A Symonds,AC Gilchrist,AB Dinda,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,5,1,AC Gilchrist,A Symonds,AB Agarkar,6,0,6,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,boundary,
+335986,1,5,2,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,5,3,AC Gilchrist,A Symonds,AB Agarkar,6,0,6,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,boundary,
+335986,1,5,4,AC Gilchrist,A Symonds,AB Agarkar,4,0,4,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,boundary,
+335986,1,5,5,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,5,6,AC Gilchrist,A Symonds,AB Agarkar,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,6,1,A Symonds,AC Gilchrist,M Kartik,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,6,2,AC Gilchrist,A Symonds,M Kartik,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,6,3,AC Gilchrist,A Symonds,M Kartik,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,6,4,A Symonds,AC Gilchrist,M Kartik,4,0,4,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,boundary,
+335986,1,6,5,A Symonds,AC Gilchrist,M Kartik,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,6,6,A Symonds,AC Gilchrist,M Kartik,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,7,1,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,7,2,AC Gilchrist,A Symonds,Mohammad Hafeez,0,1,1,0,NA,NA,NA,noballs,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,7,3,AC Gilchrist,A Symonds,Mohammad Hafeez,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,7,4,AC Gilchrist,A Symonds,Mohammad Hafeez,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,7,5,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,7,6,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,7,7,A Symonds,AC Gilchrist,Mohammad Hafeez,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,8,1,AC Gilchrist,A Symonds,M Kartik,0,0,0,1,caught,AC Gilchrist,Mohammad Hafeez,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,8,2,RG Sharma,A Symonds,M Kartik,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,8,3,RG Sharma,A Symonds,M Kartik,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,8,4,RG Sharma,A Symonds,M Kartik,0,0,0,1,caught,RG Sharma,WP Saha,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,8,5,SB Styris,A Symonds,M Kartik,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
+335986,1,8,6,SB Styris,A Symonds,M Kartik,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,9,1,SB Styris,A Symonds,Mohammad Hafeez,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,9,2,A Symonds,SB Styris,Mohammad Hafeez,1,0,1,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,9,3,SB Styris,A Symonds,Mohammad Hafeez,0,1,1,0,NA,NA,NA,legbyes,Deccan Chargers,Kolkata Knight Riders,,,other,
+335986,1,9,4,A Symonds,SB Styris,Mohammad Hafeez,0,0,0,0,NA,NA,NA,NA,Deccan Chargers,Kolkata Knight Riders,,,dot,
